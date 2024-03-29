@@ -7062,8 +7062,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298548
 http://iptvtree.net:8080/F14995/a84c0963/298549
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="Indonesia",MNC TV
 http://iptvtree.net:8080/F14995/a84c0963/165054
-#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="Indonesia",Moji
-http://iptvtree.net:8080/F14995/a84c0963/298550
+
 #EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",MQTV
 http://iptvtree.net:8080/F14995/a84c0963/298551
 #EXTINF:-1 tvg-id="" tvg-name="MTA 7 Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="Indonesia",MTA 7 Asia
@@ -7391,8 +7390,6 @@ http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298548
 #EXTINF:-1 tvg-id="" tvg-name="Sportstar 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="Indonesia 2",Sportstar 3
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298549
 
-#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="Indonesia 2",Moji
-http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298550
 #EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Indonesia 2",Music TV
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/165108
 #EXTINF:-1 tvg-id="" tvg-name="My Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="Indonesia 2",My Cinema
