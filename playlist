@@ -170,10 +170,6 @@ https://s.id/21ohu-sctv|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (X)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.226.232.196:8000/play/a013/index.m3u8
-
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -7490,8 +7486,7 @@ http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298490
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298565
 #EXTINF:-1 tvg-id="" tvg-name="Rock Extreme" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia 2",Rock Extreme
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298566
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Indonesia 2",SCTV
-http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/162141
+
 #EXTINF:-1 tvg-id="" tvg-name="SEA Today" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="Indonesia 2",SEA Today
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298568
 #EXTINF:-1 tvg-id="" tvg-name="Sindonews TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="Indonesia 2",Sindonews TV
