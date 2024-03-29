@@ -2780,12 +2780,6 @@ https://cdnjkt4.transvision.co.id:1004/live/master/100/4028c68587f789fe018804f4b
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
-https://cdnjkt4.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be52f87b58f2/ffb50ac11f9f42758882f58ff62273be.png" group-title="CUBMU",GTV
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
@@ -7489,8 +7483,7 @@ http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/300662
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/300846
 #EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="Indonesia 2",Rajawali TV
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/196457
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Indonesia 2",RCTI
-http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/157591
+
 #EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="Indonesia 2",Rock Action
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298490
 #EXTINF:-1 tvg-id="" tvg-name="Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="Indonesia 2",Rock Entertaiment
