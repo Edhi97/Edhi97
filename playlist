@@ -124,7 +124,7 @@ http://103.226.232.196:8000/play/a00l/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="vg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="NATIONAL",MNC TV 
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="NATIONAL",MNC TV 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (HTV)
