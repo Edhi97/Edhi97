@@ -254,20 +254,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="NATIONAL",iNEWS (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="NATIONAL",iNEWS (R+)
+
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://iptv.urfan.web.id/logo/inews.png" group-title="NATIONAL",iNEWS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-inews.rctiplus.id/inews-sdi.mpd
-
-#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="NATIONAL",iNEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.226.232.196:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="NATIONAL",iNEWS (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -6994,8 +6984,7 @@ http://iptvtree.net:8080/F14995/a84c0963/264769
 http://iptvtree.net:8080/F14995/a84c0963/298539
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="Indonesia",Indosiar
 http://iptvtree.net:8080/F14995/a84c0963/162138
-#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Indonesia",INews
-http://iptvtree.net:8080/F14995/a84c0963/157579
+
 #EXTINF:-1 tvg-id="" tvg-name="Infotainment" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Infotainment
 http://iptvtree.net:8080/F14995/a84c0963/298541
 #EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="Indonesia",Insert
@@ -7327,8 +7316,7 @@ http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/157590
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/264769
 #EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia 2",Indi Kids
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298539
-#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Indonesia 2",INews
-http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/157579
+
 #EXTINF:-1 tvg-id="" tvg-name="Infotainment" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia 2",Infotainment
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298541
 #EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="Indonesia 2",Insert
