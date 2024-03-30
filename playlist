@@ -158,12 +158,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png" group-title="NATIONAL",GTV (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png" group-title="NATIONAL",GTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
@@ -187,16 +181,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="NATIONAL",ANTV (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="NATIONAL",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.226.232.196:8000/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="NATIONAL",ANTV (D*)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2526,8 +2510,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png",TV ONE
 https://cdn11jtedge.indihometv.com/atm/HLS-10s/tvone/tvone.mpd
-#EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
@@ -2708,7 +2691,7 @@ https://cdnjkt4.transvision.co.id:1004/live/master/100/4028c68587f789fe018804f4b
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68585a0014401863437adf82243/08882f0d830a45f9800649ee6536e6e8.png" group-title="CUBMU",ANTV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/antv.png" group-title="CUBMU",ANTV
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -6819,8 +6802,7 @@ http://iptvtree.net:8080/F14995/a84c0963/157532
 http://iptvtree.net:8080/F14995/a84c0963/165081
 #EXTINF:-1 tvg-id="" tvg-name="AniPlus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="Indonesia",AniPlus
 http://iptvtree.net:8080/F14995/a84c0963/298504
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia",ANTV
-http://iptvtree.net:8080/F14995/a84c0963/165072
+
 #EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="Indonesia",Arirang
 http://iptvtree.net:8080/F14995/a84c0963/247447
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Indonesia",Asian Food Network
@@ -7155,8 +7137,7 @@ http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/157532
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/165081
 #EXTINF:-1 tvg-id="" tvg-name="AniPlus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="Indonesia 2",AniPlus
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298504
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia 2",ANTV
-http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/165072
+
 #EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="Indonesia 2",Arirang
 http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/247447
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Indonesia 2",Asian Food Network
