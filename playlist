@@ -1,4 +1,6 @@
+#EXTM3U
 <meta charset="UTF-8" content="text/html"/>
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="Nasional",Indosiar
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
