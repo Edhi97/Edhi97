@@ -95,7 +95,7 @@ https://lilirplay.my.id/indihome/index.m3u8?id=kompastv
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bXwNElZHHM2uvwHO23kXVFETxbE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="FLIX TV - TV NASIONAL", NET
 #EXTVLCOPT:http-user-agent=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=net
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="Nasional", NET
+#EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/net.png" group-title="Nasional", NET
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/637.ts
 #EXTINF: -1 tvg-logo="https://hometv.pw/logo/lokal/rtv.png" group-title="Nasional", RTV
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/640.ts
