@@ -15,7 +15,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/rcti.png" group-title="Nasional", group-title="FLIX TV - TV NASIONAL", RCTI
-https://m3u.ch/pl/378d033af580bd70f61666b42de40cec_457fe99c2ab0969987e518dc71a33a77.m3u8
+https://cdnjkt4.transvision.co.id:1003/live/chunk/4028c6856c3db2cc016cd6e825832393/eng/chunk-stream3-1727
 #EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/rcti.png" group-title="Nasional", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
