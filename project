@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="Nasional", Indosiar
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+http://210.210.155.37/uq2663/h/h207/01.m3u8
 #EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="Nasional", Indosiar
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
