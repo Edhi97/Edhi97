@@ -111,7 +111,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Kompas TV - [Saluran 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png" group-title="Nasional",120-Kompas TV
+#EXTINF:-1 tvg-id="Kompas TV - [Saluran 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png" group-title="Nasional",Kompas TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png" group-title="Nasional", Kompas TV
