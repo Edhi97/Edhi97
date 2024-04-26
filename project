@@ -1275,7 +1275,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="THRILL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Nasional",THRILL
+#EXTINF:-1 tvg-name="THRILL" tvg-logo="https://i.ibb.co/y4cmrp3/thrill.png" group-title="Nasional",THRILL
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
