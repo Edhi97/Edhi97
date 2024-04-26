@@ -6790,8 +6790,14 @@ http://iptvtree.net:8080/F14995/a84c0963/165108
 http://iptvtree.net:8080/F14995/a84c0963/298553
 #EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Indonesia",My Cinema Asia
 http://iptvtree.net:8080/F14995/a84c0963/298554
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="" tvg-name="My Family" tvg-logo="https://i.ibb.co/M2B7QqH/mfc.png" group-title="Indonesia",My Family
 https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd|referer=https://www.visionplus.id
+
 #EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="Indonesia",My Kidz
 http://iptvtree.net:8080/F14995/a84c0963/298556
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Indonesia",Nat Geo
