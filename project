@@ -21,9 +21,9 @@ http://iptvtree.net:8080/boltenko/9e878c2c/157591
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="Nasional",MNC TV 
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.ibb.co/XDpr3dD/rcti.png" group-title="Nasional",MNC TV 
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
-#EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="Nasional", MNC TV
+#EXTINF: -1 tvg-logo="https://i.ibb.co/XDpr3dD/rcti.png" group-title="Nasional", MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
