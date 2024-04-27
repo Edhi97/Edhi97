@@ -94,14 +94,14 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="METRO TV" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png" group-title="Nasional",Metro TV
+#EXTINF:-1 tvg-name="METRO TV" tvg-logo="https://i.ibb.co/QQzbqyk/metrotv.png" group-title="Nasional",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
-#EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png" group-title="Nasional", Metro TV
+#EXTINF: -1 tvg-logo="https://i.ibb.co/QQzbqyk/metrotv.png" group-title="Nasional", Metro TV
 #EXTVLCOPT:http-user-agent=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=metrotv
-#EXTINF:-1 tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png" group-title="Nasional",Magna Channel
+#EXTINF:-1 tvg-id="magnachannel.id" tvg-logo="	https://i.ibb.co/yWz634r/magnatv.png" group-title="Nasional",Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="metroglobenetwork.id" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png" group-title="Nasional",Metro Globe Network
@@ -111,23 +111,23 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Kompas TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png" group-title="Nasional",Kompas TV
+#EXTINF:-1 tvg-id="Kompas TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/mtq7R7y/kompastv.png" group-title="Nasional",Kompas TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png" group-title="Nasional", Kompas TV
+#EXTINF: -1 tvg-logo="https://i.ibb.co/mtq7R7y/kompastv.png" group-title="Nasional", Kompas TV
 #EXTVLCOPT:http-user-agent=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=kompastv
-#EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/net.png" group-title="Nasional", NET
+#EXTINF: -1 tvg-logo="	https://i.ibb.co/TqBzKQy/nettv.png" group-title="Nasional", NET
 #EXTVLCOPT:http-user-agent=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=net
-#EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/net.png" group-title="Nasional", NET
+#EXTINF: -1 tvg-logo="	https://i.ibb.co/TqBzKQy/nettv.png" group-title="Nasional", NET
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/637.ts
-#EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/rtv.png" group-title="Nasional", RTV
+#EXTINF: -1 tvg-logo="	https://i.ibb.co/mDDMbKQ/Rtv-1.png" group-title="Nasional", RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-#EXTINF: -1 tvg-logo="https://hometv.pw/logo/lokal/rtv.png" group-title="Nasional", RTV
+#EXTINF: -1 tvg-logo="	https://i.ibb.co/mDDMbKQ/Rtv-1.png" group-title="Nasional", RTV
 #EXTVLCOPT:http-user-agent=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=rtv
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png" group-title="Nasional",iNews
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="	https://i.ibb.co/HPCjjkH/inews.png" group-title="Nasional",iNews
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/633.ts
 #EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png" group-title="Nasional",MTA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -153,7 +153,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 #EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png" group-title="Nasional",RRI NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://rrinet.rri.co.id/hls/live.m3u8
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://iptv.urfan.web.id/logo/btv.png" group-title="Nasional",BTV
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.ibb.co/34BgCcp/btv.png" group-title="Nasional",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="GPRTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png" group-title="Nasional",GPR TV
@@ -162,7 +162,7 @@ https://ythls.armelin.one/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png" group-title="Nasional",Indonesiana TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
-#EXTINF:-1 tvg-id="SEATODAY.id" tvg-logo="https://iptv.urfan.web.id/logo/seatodaytv.png" group-title="Nasional",SEA TODAY
+#EXTINF:-1 tvg-id="SEATODAY.id" tvg-logo="	https://i.ibb.co/pZ987V3/seatoday.png" group-title="Nasional",SEA TODAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Liga BRI",Liga BRI 3
