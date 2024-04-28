@@ -117,11 +117,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF: -1 tvg-logo="https://i.ibb.co/mtq7R7y/kompastv.png" group-title="Nasional", Kompas TV
 #EXTVLCOPT:http-user-agent=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=kompastv
+
+#EXTINF:-1 tvg-name="NET TV" tvg-logo="https://i.ibb.co/TqBzKQy/nettv.png" group-title="Nasional",NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
 #EXTINF: -1 tvg-logo="	https://i.ibb.co/TqBzKQy/nettv.png" group-title="Nasional", NET
 #EXTVLCOPT:http-user-agent=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=net
-#EXTINF: -1 tvg-logo="	https://i.ibb.co/TqBzKQy/nettv.png" group-title="Nasional", NET
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/637.ts
+
 #EXTINF: -1 tvg-logo="	https://i.ibb.co/mDDMbKQ/Rtv-1.png" group-title="Nasional", RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF: -1 tvg-logo="	https://i.ibb.co/mDDMbKQ/Rtv-1.png" group-title="Nasional", RTV
