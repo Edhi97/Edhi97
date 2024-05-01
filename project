@@ -66,14 +66,9 @@ https://lilirplay.my.id/indihome/index.m3u8?id=tvone
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hLL5T7Q/tvone.png" group-title="Nasional", TVONE
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
 
-#KODIPROP:inputstreamaddon=inputstream.adaptif
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV" ch-number="4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co/zhwhw0v/transtv.png" group-title="Nasional",TRANSTV
-http://iptvtree.net:8080/c4596f70/c3848d92/162503
+#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/zhwhw0v/transtv.png" group-title="Nasional",TRANSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162503
 
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/zhwhw0v/transtv.png" group-title="Nasional",TRANSTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
