@@ -53,6 +53,10 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95|User-Agent=OTT Navigator/home
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.ibb.co/v33tnPR/moji.png" group-title="Nasional",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co/HhtWZNJ/mentari.png" group-title="Nasional",Mentari TV
+http://iptvtree.net:8080/F14995/a84c0963/298546
+
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.ibb.co/HhtWZNJ/mentari.png" group-title="Nasional",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
@@ -6757,8 +6761,6 @@ http://iptvtree.net:8080/F14995/a84c0963/157592
 http://iptvtree.net:8080/F14995/a84c0963/298543
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="Indonesia",Love Nature
 http://iptvtree.net:8080/F14995/a84c0963/264756
-#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="Indonesia",Mentari TV
-http://iptvtree.net:8080/F14995/a84c0963/298546
 
 #EXTINF:-1 tvg-id="" tvg-name="Miao Mi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="Indonesia",Miao Mi
 http://iptvtree.net:8080/F14995/a84c0963/266805
