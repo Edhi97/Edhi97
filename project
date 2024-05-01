@@ -66,7 +66,7 @@ https://lilirplay.my.id/indihome/index.m3u8?id=tvone
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hLL5T7Q/tvone.png" group-title="Nasional", TVONE
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/zhwhw0v/transtv.pn" group-title="Nasional",TRANSTV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/zhwhw0v/transtv.png" group-title="Nasional",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/zhwhw0v/transtv.png" group-title="Nasional",TRANSTV
