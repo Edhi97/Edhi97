@@ -42,8 +42,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/transtv.png" group-title="Nasional",Trans TV
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/733/master.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png" group-title="Nasional",Trans 7
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png" group-title="Nasional",CNN Indonesia
