@@ -601,8 +601,11 @@ http://iptvtree.net:8080/F14995/a84c0963/298541
 http://iptvtree.net:8080/F14995/a84c0963/264766
 #EXTINF:-1 tvg-id="" tvg-name="Izzah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="Indonesia",Izzah TV
 http://iptvtree.net:8080/F14995/a84c0963/275984
-#EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="Indonesia",Jak TV
-http://iptvtree.net:8080/F14995/a84c0963/157601
+
+EXTINF:-1 tvg-name="JAK TV" tvg-logo="https://hometv.pw/logo/lokal/jaktv.png" group-title="Indonesia",Jak TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="Indonesia",JTV
 http://iptvtree.net:8080/F14995/a84c0963/165091
 #EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="Indonesia",K+
