@@ -773,21 +773,7 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-me" tvg-name="" tvg-logo="https://i.ibb.co/rkFbwRV/abcme.png" group-title="KIDS", ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveaneviadev.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
-
-#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
@@ -1070,9 +1056,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c100093
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://c3.klipartz.com/pngpicture/969/328/sticker-png-one-piece-anime-icon-v2-one-piece-thumbnail.png",ONE PIECE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShO1UgMNbwNch_ciN3w-sWUdEfuzw9mByreg&usqp=CAU",AFARIN TV
-https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJO4qM5OWcFFuKMiqLRpJ-jOu93juAbDDQqA&usqp=CAU",BALAPAN TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
