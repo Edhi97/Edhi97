@@ -3498,7 +3498,7 @@ https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cors-proxy.cluster.fun/https://ctrl.laotv.la/live/WWE/manifest.mpd
 
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://i.ibb.co/rMqyf0w/wwe.png" group-title="CHANNEL | SPORTS", WWE NETWORK 🇺🇸
+#EXTINF:-0 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://i.ibb.co/rMqyf0w/wwe.png" group-title="CHANNEL | SPORTS", WWE NETWORK 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
