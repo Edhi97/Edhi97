@@ -15,7 +15,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png" group-title="Nasional",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/XDpr3dD/rcti.png" group-title="Nasional", group-title="FLIX TV - TV NASIONAL", RCTI
+#EXTINF: -1 tvg-logo="https://i.ibb.co/XDpr3dD/rcti.png" group-title="Nasional", RCTI
 http://iptvtree.net:8080/boltenko/9e878c2c/157591
 #EXTINF: -1 tvg-logo="https://i.ibb.co/XDpr3dD/rcti.png" group-title="Nasional", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
@@ -1251,10 +1251,10 @@ https://mhdtv.co.in/jio/stream.m3u8?id=488
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="https://i.ibb.co/7k44VWM/andflix.png" group-title="CHANNEL | MOVIES", &FLIX 🇮🇳
+#EXTINF:-0 tvg-id="20" tvg-name="" tvg-logo="https://i.ibb.co/7k44VWM/andflix.png" group-title="CHANNEL | MOVIES", &FLIX 🇮🇳
 
 
-#EXTINF:-1 tvg-id="andFlix HD" tvg-name="" tvg-logo="https://i.ibb.co/7k44VWM/andflix.png" group-title="CHANNEL | MOVIES", &FLIX 🇮🇳
+#EXTINF:-0 tvg-id="andFlix HD" tvg-name="" tvg-logo="https://i.ibb.co/7k44VWM/andflix.png" group-title="CHANNEL | MOVIES", &FLIX 🇮🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/jio/stream.m3u8?id=1322
