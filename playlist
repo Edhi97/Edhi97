@@ -426,8 +426,13 @@ http://iptvtree.net:8080/F14995/a84c0963/197962
 http://iptvtree.net:8080/F14995/a84c0963/166409
 #EXTINF:-1 tvg-id="" tvg-name="Bandung TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="Indonesia",Bandung TV
 http://iptvtree.net:8080/F14995/a84c0963/166416
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Indonesia",BBC Earth
-http://iptvtree.net:8080/F14995/a84c0963/165106
+
+EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Indonesia",BBC Earth
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",BBC Lifestyle
 http://iptvtree.net:8080/F14995/a84c0963/264747
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Indonesia",beIN Sports 1
