@@ -50,7 +50,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/L61nLKP/sctv.png" group-title="Nasional", SCTV
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/v33tnPR/moji.png" group-title="Nasional",MOJI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v33tnPR/moji.png" group-title="Nasional",MOJI
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.ibb.co/v33tnPR/moji.png" group-title="Nasional",MOJI
