@@ -461,6 +461,12 @@ http://iptvtree.net:8080/F14995/a84c0963/298506
 
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="Indonesia",Berita Satu World
 http://iptvtree.net:8080/F14995/a84c0963/162136
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Indonesia",Bioskop Indonesia
 http://iptvtree.net:8080/F14995/a84c0963/264801
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="Indonesia",Bloomberg TV
