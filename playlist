@@ -575,8 +575,12 @@ http://iptvtree.net:8080/F14995/a84c0963/298533
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Indonesia",HBO
 http://iptvtree.net:8080/F14995/a84c0963/197972
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Indonesia",HBO Family
-http://iptvtree.net:8080/F14995/a84c0963/197055
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Indonesia", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
+https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Indonesia",HBO Hits
 http://iptvtree.net:8080/F14995/a84c0963/196480
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Indonesia",HBO Signature
