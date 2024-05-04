@@ -55,10 +55,10 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co/HhtWZNJ/mentari.png" group-title="Nasional",Mentari TV
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co/bmH5XkG/MENTARI.png" group-title="Nasional",Mentari TV
 http://iptvtree.net:8080/F14995/a84c0963/298546
 
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.ibb.co/HhtWZNJ/mentari.png" group-title="Nasional",Mentari TV
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.ibb.co/bmH5XkG/MENTARI.png" group-title="Nasional",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo=" https://i.ibb.co/T0MQdLm/ANTV.png" group-title="Nasional",ANTV
