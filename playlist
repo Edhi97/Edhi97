@@ -114,26 +114,26 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.ibb.co/mtq7R7y/kompastv.png" group-title="Nasional",Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.ibb.co/Bw5vQWQ/KOMPASTV.png" group-title="Nasional",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/mtq7R7y/kompastv.png" group-title="Nasional", Kompas TV
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Bw5vQWQ/KOMPASTV.png" group-title="Nasional", Kompas TV
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=kompastv
 
-#EXTINF:-1 tvg-name="NET TV" tvg-logo="https://i.ibb.co/TqBzKQy/nettv.png" group-title="Nasional",NET
+#EXTINF:-1 tvg-name="NET TV" tvg-logo="https://i.ibb.co/CwYGdtL/NETTV.png" group-title="Nasional",NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF: -1 tvg-logo=" https://i.ibb.co/TqBzKQy/nettv.png" group-title="Nasional", NET
+#EXTINF: -1 tvg-logo=" https://i.ibb.co/CwYGdtL/NETTV.png" group-title="Nasional", NET
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=net
 
-#EXTINF: -1 tvg-logo=" https://i.ibb.co/mDDMbKQ/Rtv-1.png" group-title="Nasional", RTV
+#EXTINF: -1 tvg-logo=" https://i.ibb.co/C8Ht2CP/RTV.png" group-title="Nasional", RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-#EXTINF: -1 tvg-logo=" https://i.ibb.co/mDDMbKQ/Rtv-1.png" group-title="Nasional", RTV
+#EXTINF: -1 tvg-logo=" https://i.ibb.co/C8Ht2CP/RTV.png" group-title="Nasional", RTV
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=rtv
 
