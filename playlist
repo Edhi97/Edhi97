@@ -27,7 +27,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165054
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/FKtJgnL/mnctv.png" group-title="Nasional", MNC TV
+#EXTINF: -1 tvg-logo="https://i.ibb.co/K6Ln1dX/MNCTV.png" group-title="Nasional", MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -39,13 +39,13 @@ http://37.49.225.197:8080/F31068/8fd17683/157578
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/L61nLKP/sctv.png" group-title="Nasional",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/qjqJm23/SCTV.png" group-title="Nasional",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/L61nLKP/sctv.png" group-title="Nasional", SCTV
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qjqJm23/SCTV.png" group-title="Nasional", SCTV
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
-#EXTINF: -1 tvg-logo="https://i.ibb.co/L61nLKP/sctv.png" group-title="Nasional", SCTV
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qjqJm23/SCTV.png" group-title="Nasional", SCTV
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v33tnPR/moji.png" group-title="Nasional",MOJI
@@ -76,10 +76,10 @@ https://lilirplay.my.id/indihome/index.m3u8?id=tvone
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hLL5T7Q/tvone.png" group-title="Nasional", TVONE
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/zhwhw0v/transtv.png" group-title="Nasional",TRANSTV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/Y70s96K/TRANSTV.png" group-title="Nasional",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/zhwhw0v/transtv.png" group-title="Nasional",TRANSTV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/Y70s96K/TRANSTV.png" group-title="Nasional",TRANSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
