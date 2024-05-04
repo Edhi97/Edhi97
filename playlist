@@ -68,12 +68,12 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 EXTINF: -1 tvg-logo="https://i.ibb.co/ncxws6B/antv.png" group-title="Nasional", ANTV
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=antv
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo=" https://i.ibb.co/hLL5T7Q/tvone.png" group-title="Nasional",tvOne
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo=" https://i.ibb.co/TK6rxgr/TVONE.png" group-title="Nasional",tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=tvone
-#EXTINF: -1 tvg-logo="https://i.ibb.co/hLL5T7Q/tvone.png" group-title="Nasional", TVONE
+#EXTINF: -1 tvg-logo="https://i.ibb.co/TK6rxgr/TVONE.png" group-title="Nasional", TVONE
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/Y70s96K/TRANSTV.png" group-title="Nasional",TRANSTV
@@ -83,10 +83,10 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.ibb.co/5h4yHmX/trans7.png" group-title="Nasional",TRANS7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.ibb.co/8xvBRSZ/TRANS7.png" group-title="Nasional",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.ibb.co/5h4yHmX/trans7.png" group-title="Nasional",TRANS7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.ibb.co/8xvBRSZ/TRANS7.png" group-title="Nasional",TRANS7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
