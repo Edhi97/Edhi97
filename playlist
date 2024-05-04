@@ -39,8 +39,6 @@ http://37.49.225.197:8080/F31068/8fd17683/157578
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png" group-title="Nasional",iNews
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/633.ts
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/L61nLKP/sctv.png" group-title="Nasional",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -135,6 +133,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF: -1 tvg-logo=" https://i.ibb.co/mDDMbKQ/Rtv-1.png" group-title="Nasional", RTV
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=rtv
+
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://i.ibb.co/HPCjjkH/inews.png" group-title="Nasional",iNEWS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
