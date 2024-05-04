@@ -180,7 +180,7 @@ https://rrinet.rri.co.id/hls/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-id="GPRTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png" group-title="Nasional",GPR TV
+#EXTINF:-1 tvg-id="GPRTV.id" tvg-logo="https://i.ibb.co/2ShCHyV/GPR.png" group-title="Nasional",GPR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.armelin.one/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8
 
