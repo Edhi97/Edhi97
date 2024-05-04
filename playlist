@@ -6,13 +6,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/YdL9qNg/indosiar.png" group-title="Nasional", Indosiar
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo=" https://i.ibb.co/tK5z4wM/tvri.png" group-title="Nasional",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo=" https://i.ibb.co/KK4d3Lg/TVRI.png" group-title="Nasional",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png" group-title="Nasional",TVRI World
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co/5n8BQvh/TVRI-WORLD.png" group-title="Nasional",TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png" group-title="Nasional",TVRI Sport
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co/xHBFKpJ/TVRI-SPORTS.png" group-title="Nasional",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/wpdxwQW/RCTI.png" group-title="Nasional", RCTI
@@ -176,7 +176,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 #EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png" group-title="Nasional",RRI NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://rrinet.rri.co.id/hls/live.m3u8
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.ibb.co/34BgCcp/btv.png" group-title="Nasional",BTV
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.ibb.co/XLPK2cf/BTV.png" group-title="Nasional",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
