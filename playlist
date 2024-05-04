@@ -32,10 +32,10 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165054
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png" group-title="Nasional",GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/Bwqhzx4/GTV.png" group-title="Nasional",GTV
 http://37.49.225.197:8080/F31068/8fd17683/157578
 
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.ibb.co/Q6jHHXS/globaltv.png" group-title="Nasional",GTV
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.ibb.co/Bwqhzx4/GTV.png" group-title="Nasional",GTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
@@ -65,7 +65,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-EXTINF: -1 tvg-logo="https://i.ibb.co/ncxws6B/antv.png" group-title="Nasional", ANTV
+EXTINF: -1 tvg-logo="https://i.ibb.co/T0MQdLm/ANTV.png" group-title="Nasional", ANTV
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=antv
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo=" https://i.ibb.co/TK6rxgr/TVONE.png" group-title="Nasional",tvOne
@@ -97,11 +97,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="METRO TV" tvg-logo="https://i.ibb.co/QQzbqyk/metrotv.png" group-title="Nasional",Metro TV
+#EXTINF:-1 tvg-name="METRO TV" tvg-logo="https://i.ibb.co/VY6TKP7/METROTV.png" group-title="Nasional",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/QQzbqyk/metrotv.png" group-title="Nasional", Metro TV
+#EXTINF: -1 tvg-logo="https://i.ibb.co/VY6TKP7/METROTV.png" group-title="Nasional", Metro TV
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=metrotv
 #EXTINF:-1 tvg-id="magnachannel.id" tvg-logo=" https://i.ibb.co/yWz634r/magnatv.png" group-title="Nasional",Magna Channel
@@ -134,7 +134,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=rtv
 
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://i.ibb.co/HPCjjkH/inews.png" group-title="Nasional",iNEWS
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://i.ibb.co/VY6TKP7/METROTV.png" group-title="Nasional",iNEWS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -144,7 +144,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://i.ibb.co/HPCjjkH/inews.png" group-title="Nasional",iNEWS
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://i.ibb.co/VY6TKP7/METROTV.png" group-title="Nasional",iNEWS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-inews.rctiplus.id/inews-sdi.mpd
 
