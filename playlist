@@ -283,7 +283,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming /uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7s273LNiPnp4BWooPkGYaQyjoJKE33NcisaRK1nKkPIuupdCtnPdhVjg&s=10",BN Channel
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://drive.google.com/file/d/1XkzJU3ia8tWVj4cNccscwfSL0JWUIbpk/view?usp=drivesdk",BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
