@@ -1,9 +1,9 @@
 #EXTM3U
 <meta charset="UTF-8" content="teks/html"/>
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/p46Tgpn/indosiar.png" group-title="Nasional", Indosiar
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HBf76qT/indosiar.png" group-title="Nasional", Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF: -1 tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="Nasional", Indosiar
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HBf76qT/indosiar.png" group-title="Nasional", Indosiar
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo=" https://i.ibb.co/tK5z4wM/tvri.png" group-title="Nasional",TVRI Nasional
