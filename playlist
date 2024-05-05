@@ -383,7 +383,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SmZ2DcV/GARUDA.png" group-title="NASIONAL",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/jpm.png" group-title="NASIONAL",JPMTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5sNpTB9/JPMTV.png" group-title="NASIONAL",JPM TV
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDj1NkC/SIMPANG5.png" group-title="NASIONAL",Simpang5 TV
