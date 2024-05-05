@@ -314,9 +314,6 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-lingual="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU " group-title="NASIONAL",Indonesiana TV
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKgyRvz/PESONA-IND.png" group-title="NASIONAL",Pesona Indonesia
 https://h1.intechmedia.net/intech/ch92.m3u8
 
