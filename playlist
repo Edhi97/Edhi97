@@ -23,7 +23,7 @@ http://iptvtree.net:8080/boltenko/9e878c2c/157591
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.ibb.co/FKtJgnL/mnctv.png" grup- title="Nasional",MNC TV
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.ibb.co/K6Ln1dX/MNCTV.png" grup-title="Nasional",MNC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165054
 
