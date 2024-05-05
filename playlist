@@ -446,8 +446,10 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/b
 
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/Kj5nxw4/BIOSKOP-IND.png" group-title="Indonesia",Bioskop Indonesia
 http://iptvtree.net:8080/F14995/a84c0963/264801
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="Indonesia",Bloomberg TV
-http://iptvtree.net:8080/F14995/a84c0963/157599
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO",Bloomberg TV
+http://abcnew.site:8880/12mmk180105/81462658/71067
+
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="Indonesia",Boomerang
 http://iptvtree.net:8080/F14995/a84c0963/165109
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang EN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="Indonesia",Boomerang EN
