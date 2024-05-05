@@ -317,7 +317,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NASIONAL",Jawa Pos televisi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQV95Xk/JAWA-POS.png" group-title="NASIONAL",Jawa Pos televisi
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 
