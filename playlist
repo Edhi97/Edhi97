@@ -555,7 +555,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298533
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/gtxd0NJ/HBO.png" group-title="Indonesia",HBO
 http://iptvtree.net:8080/F14995/a84c0963/197972
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Indonesia", HBO Family
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="" tvg-logo="https://i.ibb.co/bd5gTkv/HBO-FAMILY.png" group-title="Indonesia", HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
@@ -1082,7 +1082,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="" tvg-logo="https://i.ibb.co/vXmmNCQ/hbofam.png" group-title="CHANNEL | MOVIES", HBO FAMILY 🇸🇬 🇺🇸
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="" tvg-logo="https://i.ibb.co/bd5gTkv/HBO-FAMILY.png" group-title="CHANNEL | MOVIES", HBO FAMILY 🇸🇬 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
@@ -1108,7 +1108,7 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
 https://cors-proxy.pulsesoftware.com/https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
 
-#EXTINF:-1 tvg-id="HBO Family.th" tvg-name="" tvg-logo="https://i.ibb.co/vXmmNCQ/hbofam.png" group-title="CHANNEL | MOVIES", HBO FAMILY 🇹🇭 🇺🇸
+#EXTINF:-1 tvg-id="HBO Family.th" tvg-name="" tvg-logo="https://i.ibb.co/bd5gTkv/HBO-FAMILY.png" group-title="CHANNEL | MOVIES", HBO FAMILY 🇹🇭 🇺🇸
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1132,7 +1132,7 @@ https://cors-proxy.pulsesoftware.com/https://49-231-34-107-rewriter.ais-vidnt.co
 
 
 
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="" tvg-logo="https://i.ibb.co/r0rYwjC/hbofami.png" group-title="CHANNEL | MOVIES", HBO FAMILY 🇺🇸 🇦🇷
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="" tvg-logo="https://i.ibb.co/bd5gTkv/HBO-FAMILY.png" group-title="CHANNEL | MOVIES", HBO FAMILY 🇺🇸 🇦🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
