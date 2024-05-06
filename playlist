@@ -584,8 +584,6 @@ http://iptvtree.net:8080/F14995/a84c0963/264756
 #EXTINF:-1 group-title="Indonesia" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg",SindoNews
 https://testfunctionlive.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",MQTV
-http://iptvtree.net:8080/F14995/a84c0963/298551
 #EXTINF:-1 tvg-id="" tvg-name="MTA 7 Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="Indonesia",MTA 7 Asia
 http://iptvtree.net:8080/F14995/a84c0963/162522
 
