@@ -408,10 +408,6 @@ https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/YQX1hGJ/BBC-LIFE.png" group-title="Indonesia",BBC Lifestyle
 http://iptvtree.net:8080/F14995/a84c0963/264747
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Indonesia",beIN Sports 1
-http://iptvtree.net:8080/F14995/a84c0963/165105
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="Indonesia",beIN Sports 3
-http://iptvtree.net:8080/F14995/a84c0963/298506
 
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu World" tvg-logo="https://i.ibb.co/cN416LX/BERITA-SATU-W.png" group-title="Indonesia",Berita Satu World
 http://iptvtree.net:8080/F14995/a84c0963/162136
