@@ -382,15 +382,15 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== INDONESIA ===========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/1GwWMfh/ANIMAL-PLANET.png" group-title="Indonesia",ANIMAL PLANET
 http://iptvtree.net:8080/F14995/a84c0963/157532
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="Indonesia",Animax
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://i.ibb.co/mBzCQJM/ANIMAX.png" group-title="Indonesia",Animax
 http://iptvtree.net:8080/F14995/a84c0963/165081
 
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://i.ibb.co/ky7dbfN/ASIAN-FOOD.png" group-title="Indonesia",Asian Food Network
 http://iptvtree.net:8080/F14995/a84c0963/298503
 
-#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="Indonesia",AXN
+#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/zfCJnqk/AXN.png" group-title="Indonesia",AXN
 https://testfunctionlive.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://i.ibb.co/NCWJyPN/BALI-TV.png" group-title="Indonesia",Bali TV
@@ -406,7 +406,7 @@ http://iptvtree.net:8080/F14995/a84c0963/166416
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/YQX1hGJ/BBC-LIFE.png" group-title="Indonesia",BBC Lifestyle
 http://iptvtree.net:8080/F14995/a84c0963/264747
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Indonesia",beIN Sports 1
 http://iptvtree.net:8080/F14995/a84c0963/165105
@@ -451,9 +451,9 @@ http://iptvtree.net:8080/F14995/a84c0963/298514
 #EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="Indonesia",Channel News Asia
 http://iptvtree.net:8080/F14995/a84c0963/157602
 
-#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Indonesia",CinemaWorld
+#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/WPXGBBC/CINEMAWORLD.png" group-title="Indonesia",CinemaWorld
 http://iptvtree.net:8080/F14995/a84c0963/165082
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Indonesia",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://ibb.co/1qbwmVG" group-title="Indonesia",Cinemax
 http://iptvtree.net:8080/F14995/a84c0963/197964
 #EXTINF:-1 tvg-id="" tvg-name="Citra Bioskop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="Indonesia",Citra Bioskop
 http://iptvtree.net:8080/F14995/a84c0963/298519
@@ -468,7 +468,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298520
 http://iptvtree.net:8080/F14995/a84c0963/162137
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="Indonesia",CNN International
 http://iptvtree.net:8080/F14995/a84c0963/264778
-#EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="Indonesia",Crime+ Investigation
+#EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="https://i.ibb.co/mHdH2db/CRIME.png" group-title="Indonesia",Crime+ Investigation
 http://iptvtree.net:8080/F14995/a84c0963/165052
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://i.ibb.co/31zB0DG/DISCOVERY-WORLD.png" group-title="Indonesia",Discovery World
@@ -562,7 +562,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/i
 #EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://iptv.urfan.web.id/logo/imc.png" group-title="Indonesia",IMC
 http://iptvtree.net:8080/F14995/a84c0963/264769
 
-#EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Indi Kids
+#EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="https://i.ibb.co/6b7NxMh/INDI-KIDS.png" group-title="Indonesia",Indi Kids
 http://iptvtree.net:8080/F14995/a84c0963/298539
 
 #EXTINF:-1 tvg-id="" tvg-name="Infotainment" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Infotainment
@@ -576,7 +576,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://i.ibb.co/6WhVvJy/JTV.png" group-title="Indonesia",JTV
 http://iptvtree.net:8080/F14995/a84c0963/165091
-#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="Indonesia",K+
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://i.ibb.co/mqxFxfg/K.png" group-title="Indonesia",K+
 http://iptvtree.net:8080/F14995/a84c0963/197969
 #EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="Indonesia",KBS World
 http://iptvtree.net:8080/F14995/a84c0963/197053
