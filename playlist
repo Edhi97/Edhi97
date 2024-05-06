@@ -653,14 +653,10 @@ http://iptvtree.net:8080/F14995/a84c0963/166702
 http://iptvtree.net:8080/F14995/a84c0963/166686
 #EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="https://i.ibb.co/HhrPpYs/TVRI-SULSEL.png" group-title="Indonesia",TVRI Sulawesi Selatan
 http://iptvtree.net:8080/F14995/a84c0963/166699
-#EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="Indonesia",U Channel
-http://iptvtree.net:8080/F14995/a84c0963/162146
+
 #EXTINF:-1 tvg-id="" tvg-name="Usee Prime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="Indonesia",Usee Prime
 http://iptvtree.net:8080/F14995/a84c0963/162524
-#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Usee Sport 1
-http://iptvtree.net:8080/F14995/a84c0963/298577
-#EXTINF:-1 tvg-id="" tvg-name="Usee Sport 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Usee Sport 2
-http://iptvtree.net:8080/F14995/a84c0963/298578
+
 #EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.ibb.co/NycYh2X/VISION-PRIME.png" group-title="Indonesia",Vision Prime
 http://iptvtree.net:8080/F14995/a84c0963/197958
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/sPsv93d/WARNER.png" group-title="Indonesia",Warner TV
