@@ -457,9 +457,6 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/c
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Citra Entertainment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="Indonesia",Citra Entertainment
-http://iptvtree.net:8080/F14995/a84c0963/298520
-
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/V2xZMVx/cnn.png" group-title="Indonesia",CNN Indonesia
 http://iptvtree.net:8080/F14995/a84c0963/162137
 #EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="Indonesia",CNN International
