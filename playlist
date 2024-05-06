@@ -568,8 +568,6 @@ http://iptvtree.net:8080/F14995/a84c0963/298539
 http://iptvtree.net:8080/F14995/a84c0963/298541
 #EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="Indonesia",Insert
 http://iptvtree.net:8080/F14995/a84c0963/264766
-#EXTINF:-1 tvg-id="" tvg-name="Izzah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="Indonesia",Izzah TV
-http://iptvtree.net:8080/F14995/a84c0963/275984
 
 EXTINF:-1 tvg-name="JAK TV" tvg-logo="https://hometv.pw/logo/lokal/jaktv.png" group-title="Indonesia",Jak TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
