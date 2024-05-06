@@ -448,12 +448,12 @@ http://iptvtree.net:8080/F14995/a84c0963/165082
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/6PNfWh0/CINEMAX.png" group-title="Indonesia",Cinemax
 http://iptvtree.net:8080/F14995/a84c0963/197964
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",Citra Dangdut
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/6RcmQK7/CITRA-DANGDUT.png",Citra Dangdut
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",Citra Drama
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/f2WbNKS/CITRA-DRAMA.png",Citra Drama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
@@ -476,9 +476,9 @@ http://iptvtree.net:8080/F14995/a84c0963/276564
 http://iptvtree.net:8080/F14995/a84c0963/157610
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="Indonesia",Dunia Anak
 http://iptvtree.net:8080/F14995/a84c0963/264753
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="Indonesia",Dunia Lain
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/k33fpgq/DUNIA-LAIN.png" group-title="Indonesia",Dunia Lain
 http://iptvtree.net:8080/F14995/a84c0963/298524
-#EXTINF:-1 tvg-id="" tvg-name="Eat&Go" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="Indonesia",Eat&Go
+#EXTINF:-1 tvg-id="" tvg-name="Eat&Go" tvg-logo="https://i.ibb.co/SmQ7mmf/EAT-GO.png" group-title="Indonesia",Eat&Go
 http://iptvtree.net:8080/F14995/a84c0963/264765
 #EXTINF:-1 tvg-id="" tvg-name="Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="Indonesia",Ent
 http://iptvtree.net:8080/F14995/a84c0963/157581
@@ -519,12 +519,12 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 http://iptvtree.net:8080/F14995/a84c0963/196480
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/FHy0Hwz/HBO-SINGNATUR.png" group-title="Indonesia",HBO Signature
 http://iptvtree.net:8080/F14995/a84c0963/221948
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="Indonesia",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.ibb.co/TRfkP9v/HGTV.png" group-title="Indonesia",HGTV
 http://iptvtree.net:8080/F14995/a84c0963/298535
 #EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee!" tvg-logo="https://i.ibb.co/1dPhQm4/HIP2-HORE.png" group-title="Indonesia",Hip Hip Horee!
 http://iptvtree.net:8080/F14995/a84c0963/298536
 
-EXTINF:-1 tvg-logo="https://i.ibb.c/QpgZdCv/hits.png" group-title="Indonesia",Hits
+EXTINF:-1 tvg-logo="https://i.ibb.co/FxV0pcF/HITS.png" group-title="Indonesia",Hits
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
@@ -573,32 +573,32 @@ http://iptvtree.net:8080/F14995/a84c0963/197969
 #EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Indonesia",Kids TV
 http://iptvtree.net:8080/F14995/a84c0963/162505
 
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="Indonesia",Lifetime
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/7pVGD68/LIFETIME.png" group-title="Indonesia",Lifetime
 http://iptvtree.net:8080/F14995/a84c0963/298543
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="Indonesia",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/fQnGwXZ/LOVE-NATURE.png" group-title="Indonesia",Love Nature
 http://iptvtree.net:8080/F14995/a84c0963/264756
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Indonesia" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg",SindoNews
+#EXTINF:-1 group-title="Indonesia" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/SdgjWgY/SINDONEWS.png",SindoNews
 https://testfunctionlive.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MTA 7 Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="Indonesia",MTA 7 Asia
+#EXTINF:-1 tvg-id="" tvg-name="MTA 7 Asia" tvg-logo="https://i.ibb.co/0BL50FV/MTA7.png" group-title="Indonesia",MTA 7 Asia
 http://iptvtree.net:8080/F14995/a84c0963/162522
 
-#EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Indonesia",Music TV
+#EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="https://i.ibb.co/jzZs5qG/MUSIC-TV.png" group-title="Indonesia",Music TV
 http://iptvtree.net:8080/F14995/a84c0963/165108
 #EXTINF:-1 tvg-id="" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/s9DdtWs/MY-CINEMA.png" group-title="Indonesia",My Cinema
 http://iptvtree.net:8080/F14995/a84c0963/298553
-#EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Indonesia",My Cinema Asia
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="https://i.ibb.co/NS8yL4X/MY-CHINEMA-AS.png" group-title="Indonesia",My Cinema Asia
 http://iptvtree.net:8080/F14995/a84c0963/298554
 
 #EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://i.ibb.co/QvJPDNH/MY-FAMILY.png" group-title="Indonesia",My Family
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="Indonesia",My Kidz
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://i.ibb.co/WGh88Vb/MY-KIDS.png" group-title="Indonesia",My Kidz
 http://iptvtree.net:8080/F14995/a84c0963/298556
 
 #EXTINF:-1 tvg-id="" tvg-name="Net" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="Indonesia",Net
