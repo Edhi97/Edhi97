@@ -612,14 +612,12 @@ http://iptvtree.net:8080/F14995/a84c0963/298561
 #EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="Indonesia",nickelodeon
 http://iptvtree.net:8080/F14995/a84c0963/162510
 
-#EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="Indonesia",OK TV
-http://iptvtree.net:8080/F14995/a84c0963/221956
-#EXTINF:-1 tvg-id="" tvg-name="ONE" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ONE
-http://iptvtree.net:8080/F14995/a84c0963/298563
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="Indonesia",Paramount Network
-http://iptvtree.net:8080/F14995/a84c0963/298564
-#EXTINF:-1 tvg-id="" tvg-name="Prambors" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="Indonesia",Prambors
-http://iptvtree.net:8080/F14995/a84c0963/264761
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="OK TV" tvg-logo="https://hometv.pw/logo/entertainment/oktv.png" group-title="Indonesia",OK TV
+https://liveaneviadev.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="Radar Cirebon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="Indonesia",Radar Cirebon TV
 http://iptvtree.net:8080/F14995/a84c0963/300662
 #EXTINF:-1 tvg-id="" tvg-name="Radio 51" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Radio 51
