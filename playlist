@@ -490,14 +490,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298524
 http://iptvtree.net:8080/F14995/a84c0963/264765
 #EXTINF:-1 tvg-id="" tvg-name="Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="Indonesia",Ent
 http://iptvtree.net:8080/F14995/a84c0963/157581
-#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Etv Bioskop
-http://iptvtree.net:8080/F14995/a84c0963/298526
-#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Etv Bioskop 02
-http://iptvtree.net:8080/F14995/a84c0963/298527
-#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Etv Bioskop 03
-http://iptvtree.net:8080/F14995/a84c0963/298528
-#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Etv Bioskop 04
-http://iptvtree.net:8080/F14995/a84c0963/298529
+
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="Indonesia",Fashion TV
 http://iptvtree.net:8080/F14995/a84c0963/298530
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="Indonesia",Fight Sport
