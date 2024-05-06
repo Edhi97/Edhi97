@@ -451,8 +451,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298513
 http://iptvtree.net:8080/F14995/a84c0963/298514
 #EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="Indonesia",Channel News Asia
 http://iptvtree.net:8080/F14995/a84c0963/157602
-#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Chinese Drama
-http://iptvtree.net:8080/F14995/a84c0963/298516
+
 #EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Indonesia",CinemaWorld
 http://iptvtree.net:8080/F14995/a84c0963/165082
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Indonesia",Cinemax
