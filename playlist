@@ -459,8 +459,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/V2xZMVx/cnn.png" group-title="Indonesia",CNN Indonesia
 http://iptvtree.net:8080/F14995/a84c0963/162137
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="Indonesia",CNN International
-http://iptvtree.net:8080/F14995/a84c0963/264778
+
 #EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="https://i.ibb.co/mHdH2db/CRIME.png" group-title="Indonesia",Crime+ Investigation
 http://iptvtree.net:8080/F14995/a84c0963/165052
 
