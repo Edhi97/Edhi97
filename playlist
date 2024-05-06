@@ -601,12 +601,7 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="Indonesia",My Kidz
 http://iptvtree.net:8080/F14995/a84c0963/298556
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Indonesia",Nat Geo
-http://iptvtree.net:8080/F14995/a84c0963/165094
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="Indonesia",Nat Geo Wild
-http://iptvtree.net:8080/F14995/a84c0963/197967
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Indonesia",NBA TV
-http://iptvtree.net:8080/F14995/a84c0963/298558
+
 #EXTINF:-1 tvg-id="" tvg-name="Net" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="Indonesia",Net
 http://iptvtree.net:8080/F14995/a84c0963/80292
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="Indonesia",NHK World
