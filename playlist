@@ -647,8 +647,6 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/t
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="	https://i.ibb.co/tK5z4wM/tvri.png" group-title="Indonesia",TVRI
-http://iptvtree.net:8080/F14995/a84c0963/162504
 #EXTINF:-1 tvg-id="" tvg-name="TVRI 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/65e84aeb0473183e918e3395efa3d64f.png" group-title="Indonesia",TVRI 4
 http://iptvtree.net:8080/F14995/a84c0963/287433
 #EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Tengah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="Indonesia",TVRI Kalimantan Tengah
