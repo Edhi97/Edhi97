@@ -389,8 +389,9 @@ http://iptvtree.net:8080/F14995/a84c0963/165081
 
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://i.ibb.co/ky7dbfN/ASIAN-FOOD.png" group-title="Indonesia",Asian Food Network
 http://iptvtree.net:8080/F14995/a84c0963/298503
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Indonesia",AXN
-http://iptvtree.net:8080/F14995/a84c0963/165079
+
+#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="Indonesia",AXN
+https://testfunctionlive.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://i.ibb.co/NCWJyPN/BALI-TV.png" group-title="Indonesia",Bali TV
 http://iptvtree.net:8080/F14995/a84c0963/197962
