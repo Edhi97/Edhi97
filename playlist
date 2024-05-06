@@ -387,8 +387,6 @@ http://iptvtree.net:8080/F14995/a84c0963/157532
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="Indonesia",Animax
 http://iptvtree.net:8080/F14995/a84c0963/165081
 
-#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="Indonesia",Arirang
-http://iptvtree.net:8080/F14995/a84c0963/247447
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://i.ibb.co/ky7dbfN/ASIAN-FOOD.png" group-title="Indonesia",Asian Food Network
 http://iptvtree.net:8080/F14995/a84c0963/298503
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Indonesia",AXN
@@ -549,8 +547,7 @@ http://iptvtree.net:8080/F14995/a84c0963/264750
 http://iptvtree.net:8080/F14995/a84c0963/299486
 #EXTINF:-1 tvg-id="" tvg-name="Hunan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="Indonesia",Hunan TV
 http://iptvtree.net:8080/F14995/a84c0963/247443
-#EXTINF:-1 tvg-id="" tvg-name="I AM Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="Indonesia",I AM Channel
-http://iptvtree.net:8080/F14995/a84c0963/287423
+
 #EXTINF:-1 tvg-id="" tvg-name="I Konser" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",I Konser
 http://iptvtree.net:8080/F14995/a84c0963/264760
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://i.ibb.co/SXNZV2V/IDX.png" group-title="Indonesia",IDX Channel
