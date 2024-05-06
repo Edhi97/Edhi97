@@ -524,6 +524,13 @@ http://iptvtree.net:8080/F14995/a84c0963/298535
 http://iptvtree.net:8080/F14995/a84c0963/298536
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="Indonesia",History
 http://iptvtree.net:8080/F14995/a84c0963/162519
+
+EXTINF:-1 tvg-logo="https://i.ibb.c/QpgZdCv/hits.png" group-title="Indonesia",Hits
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+https://liveaneviadev.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="Indonesia",Hits
 http://iptvtree.net:8080/F14995/a84c0963/165085
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/2sm8C8q/HITS-MOVIES.png" group-title="Indonesia",Hits Movies
