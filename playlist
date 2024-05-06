@@ -28,11 +28,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165054
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/K6Ln1dX/MNCTV.png" group-title="Nasional", MNC TV
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.ibb.co/K6Ln1dX/MNCTV.png" group-title="Nasional",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/Bwqhzx4/GTV.png" group-title="Nasional",GTV
 http://37.49.225.197:8080/F31068/8fd17683/157578
 
