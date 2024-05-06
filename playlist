@@ -522,8 +522,6 @@ http://iptvtree.net:8080/F14995/a84c0963/221948
 http://iptvtree.net:8080/F14995/a84c0963/298535
 #EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee!" tvg-logo="https://i.ibb.co/1dPhQm4/HIP2-HORE.png" group-title="Indonesia",Hip Hip Horee!
 http://iptvtree.net:8080/F14995/a84c0963/298536
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="Indonesia",History
-http://iptvtree.net:8080/F14995/a84c0963/162519
 
 EXTINF:-1 tvg-logo="https://i.ibb.c/QpgZdCv/hits.png" group-title="Indonesia",Hits
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -539,11 +537,7 @@ http://iptvtree.net:8080/F14995/a84c0963/221947
 http://iptvtree.net:8080/F14995/a84c0963/264750
 #EXTINF:-1 tvg-id="" tvg-name="Huma Betang TV" tvg-logo="https://i.ibb.co/zrsbm8v/HUMA-BETANG.png" group-title="Indonesia",Huma Betang TV
 http://iptvtree.net:8080/F14995/a84c0963/299486
-#EXTINF:-1 tvg-id="" tvg-name="Hunan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="Indonesia",Hunan TV
-http://iptvtree.net:8080/F14995/a84c0963/247443
 
-#EXTINF:-1 tvg-id="" tvg-name="I Konser" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",I Konser
-http://iptvtree.net:8080/F14995/a84c0963/264760
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://i.ibb.co/SXNZV2V/IDX.png" group-title="Indonesia",IDX Channel
 http://iptvtree.net:8080/F14995/a84c0963/157590
 
@@ -560,8 +554,11 @@ http://iptvtree.net:8080/F14995/a84c0963/298539
 
 #EXTINF:-1 tvg-id="" tvg-name="Infotainment" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Infotainment
 http://iptvtree.net:8080/F14995/a84c0963/298541
-#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="Indonesia",Insert
-http://iptvtree.net:8080/F14995/a84c0963/264766
+
+EXTINF:-1 group-title="Indonesia" tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",Insert
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
 
 EXTINF:-1 tvg-name="JAK TV" tvg-logo="https://hometv.pw/logo/lokal/jaktv.png" group-title="Indonesia",Jak TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -571,15 +568,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
 http://iptvtree.net:8080/F14995/a84c0963/165091
 #EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://i.ibb.co/mqxFxfg/K.png" group-title="Indonesia",K+
 http://iptvtree.net:8080/F14995/a84c0963/197969
-#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="Indonesia",KBS World
-http://iptvtree.net:8080/F14995/a84c0963/197053
+
 #EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Indonesia",Kids TV
 http://iptvtree.net:8080/F14995/a84c0963/162505
-#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="Indonesia",KIX
-http://iptvtree.net:8080/F14995/a84c0963/165068
 
-#EXTINF:-1 tvg-id="" tvg-name="Lifestyle & Fashion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="Indonesia",Lifestyle & Fashion
-http://iptvtree.net:8080/F14995/a84c0963/157592
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="Indonesia",Lifetime
 http://iptvtree.net:8080/F14995/a84c0963/298543
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="Indonesia",Love Nature
