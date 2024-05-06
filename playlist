@@ -616,39 +616,23 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-name="OK TV" tvg-logo="https://hometv.pw/logo/entertainment/oktv.png" group-title="Indonesia",OK TV
 https://liveaneviadev.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Radar Cirebon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="Indonesia",Radar Cirebon TV
-http://iptvtree.net:8080/F14995/a84c0963/300662
-#EXTINF:-1 tvg-id="" tvg-name="Radio 51" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",Radio 51
-http://iptvtree.net:8080/F14995/a84c0963/300846
-#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="Indonesia",Rajawali TV
-http://iptvtree.net:8080/F14995/a84c0963/196457
-
-#EXTINF:-1 tvg-id="" tvg-name="Reformed 21" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e86011037fb027f35b51ab4a38731e7b.png" group-title="Indonesia",Reformed 21
-http://iptvtree.net:8080/F14995/a84c0963/174574
-
 #EXTINF:-1 tvg-name="ROCK ACTION" tvg-logo="https://i.ibb.co/2y8JM56/ROCKACTION.png" group-title="Indonesia",ROCK ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="Indonesia",Rock Entertaiment
-http://iptvtree.net:8080/F14995/a84c0963/298565
-#EXTINF:-1 tvg-id="" tvg-name="Rock Extreme" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",Rock Extreme
-http://iptvtree.net:8080/F14995/a84c0963/298566
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-title="Indonesia",Rock Entertaiment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="Indonesia",Rodja TV
 http://iptvtree.net:8080/F14995/a84c0963/264758
 
-#EXTINF:-1 tvg-id="" tvg-name="Sindonews TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="Indonesia",Sindonews TV
-http://iptvtree.net:8080/F14995/a84c0963/299485
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="Indonesia",Smithsonian Channel
-http://iptvtree.net:8080/F14995/a84c0963/264767
-#EXTINF:-1 tvg-id="" tvg-name="Sony One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="Indonesia",Sony One
-http://iptvtree.net:8080/F14995/a84c0963/165077
-#EXTINF:-1 tvg-id="" tvg-name="SpoTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="Indonesia",SpoTV
-http://iptvtree.net:8080/F14995/a84c0963/298570
-#EXTINF:-1 tvg-id="" tvg-name="SpoTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="Indonesia",SpoTV 2
-http://iptvtree.net:8080/F14995/a84c0963/298571
-#EXTINF:-1 tvg-id="" tvg-name="Tech Storm" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="Indonesia",Tech Storm
-http://iptvtree.net:8080/F14995/a84c0963/298572
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SONY ONE" tvg-logo="https://hometv.pw/logo/entertainment/one.png" group-title="Indonesia",Sony One
+https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="Tegar TV Lampung" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b2ae084f3c3450b3f8050b67cd5926e.jpg" group-title="Indonesia",Tegar TV Lampung
 http://iptvtree.net:8080/F14995/a84c0963/166411
 
@@ -656,17 +640,22 @@ http://iptvtree.net:8080/F14995/a84c0963/166411
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="Indonesia",TLC
-http://iptvtree.net:8080/F14995/a84c0963/165086
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 9 Nusantara" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Indonesia",TV 9 Nusantara
 http://iptvtree.net:8080/F14995/a84c0963/162509
 #EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://i.ibb.co/t8H4tQb/TV-KU.png" group-title="Indonesia",TVKU
 http://iptvtree.net:8080/F14995/a84c0963/166709
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="Indonesia",TVN
-http://iptvtree.net:8080/F14995/a84c0963/197965
-#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Indonesia",TVN Movies
-http://iptvtree.net:8080/F14995/a84c0963/157596
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="	https://i.ibb.co/tK5z4wM/tvri.png" group-title="Indonesia",TVRI
 http://iptvtree.net:8080/F14995/a84c0963/162504
 #EXTINF:-1 tvg-id="" tvg-name="TVRI 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/65e84aeb0473183e918e3395efa3d64f.png" group-title="Indonesia",TVRI 4
