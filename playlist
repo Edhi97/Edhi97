@@ -482,12 +482,9 @@ http://iptvtree.net:8080/F14995/a84c0963/264765
 #EXTINF:-1 tvg-id="" tvg-name="Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="Indonesia",Ent
 http://iptvtree.net:8080/F14995/a84c0963/157581
 
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="Indonesia",Fashion TV
-http://iptvtree.net:8080/F14995/a84c0963/298530
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="Indonesia",Fight Sport
 http://iptvtree.net:8080/F14995/a84c0963/298531
-#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",FLIK
-http://iptvtree.net:8080/F14995/a84c0963/165095
+
 #EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="Indonesia",FMN
 http://iptvtree.net:8080/F14995/a84c0963/165057
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="Indonesia",Fox Life
@@ -508,9 +505,6 @@ https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="GEM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="Indonesia",GEM
-http://iptvtree.net:8080/F14995/a84c0963/298533
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/gtxd0NJ/HBO.png" group-title="Indonesia",HBO
 http://iptvtree.net:8080/F14995/a84c0963/197972
