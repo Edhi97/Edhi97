@@ -15,8 +15,11 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co/xHBFKpJ/TVRI-SPORTS.png" group-title="Nasional",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/wpdxwQW/RCTI.png" group-title="Nasional", RCTI
-http://iptvtree.net:8080/boltenko/9e878c2c/157591
+
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.ibb.co/wpdxwQW/RCTI.png",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.ibb.co/wpdxwQW/RCTI.png" group-title="Nasional",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
@@ -24,9 +27,10 @@ http://iptvtree.net:8080/boltenko/9e878c2c/157591
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.ibb.co/K6Ln1dX/MNCTV.png" grup-title="Nasional",MNC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165054
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.ibb.co/K6Ln1dX/MNCTV.png",MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.ibb.co/K6Ln1dX/MNCTV.png" group-title="Nasional",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
