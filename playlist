@@ -192,7 +192,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4c
 #EXTINF:-1 tvg-id="UseePrime.id" tvg-logo="https://iptv.urfan.web.id/logo/allplayent.png" group-title="Nasional",Allplay Ent.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://i.ibb.co/j5Lg7HG/RRINET.png" group-title="Nasional",RRI NET
+#EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://iili.io/JrUtSHv.png" group-title="Nasional",RRI NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://rrinet.rri.co.id/hls/live.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://iili.io/JrUZ3Q9.png" group-title="Nasional",BTV
@@ -203,7 +203,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.armelin.one/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8
 
-#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://freeimage.host/i/JrUZs8x" group-title="Nasional",Indonesiana TV
+#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://iili.io/JrUZs8x.png" group-title="Nasional",Indonesiana TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
