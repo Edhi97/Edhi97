@@ -8,7 +8,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 #EXTINF: -1 tvg-logo="https://iili.io/JrU6ept.png" group-title="Nasional", Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo=" https://i.ibb.co/KK4d3Lg/TVRI.png" group-title="Nasional",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo=" https://iili.io/JrUDJs9.png" group-title="Nasional",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co/5n8BQvh/TVRI-WORLD.png" group-title="Nasional",TVRI World
@@ -29,22 +29,22 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e8258
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.ibb.co/K6Ln1dX/MNCTV.png",MNC TV
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://iili.io/JrUtu94.png",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.ibb.co/K6Ln1dX/MNCTV.png" group-title="Nasional",MNC TV
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://iili.io/JrUtu94.png" group-title="Nasional",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.ibb.co/Bwqhzx4/GTV.png",GTV
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://iili.io/JrUZXGn.png",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.ibb.co/Bwqhzx4/GTV.png" group-title="Nasional",GTV
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://iili.io/JrUZXGn.png" group-title="Nasional",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -59,10 +59,10 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
 #EXTINF: -1 tvg-logo="https://iili.io/JrUsMQe.png" group-title="Nasional", SCTV
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j87cnVj/MOJI.png" group-title="Nasional",MOJI
+#EXTINF:-1 tvg-logo="https://iili.io/JrUtAAl.png" group-title="Nasional",MOJI
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.ibb.co/j87cnVj/MOJI.png" group-title="Nasional",MOJI
+#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://iili.io/JrUtAAl.png" group-title="Nasional",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
@@ -72,7 +72,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298546
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.ibb.co/bmH5XkG/MENTARI.png" group-title="Nasional",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo=" https://i.ibb.co/T0MQdLm/ANTV.png" group-title="Nasional",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo=" https://iili.io/JrUQUrJ.png" group-title="Nasional",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
@@ -392,15 +392,15 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== INDONESIA ===========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/1GwWMfh/ANIMAL-PLANET.png" group-title="Indonesia",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://github.com/Edhi97/Edhi97/blob/main/playlist" group-title="Indonesia",ANIMAL PLANET
 http://iptvtree.net:8080/F14995/a84c0963/157532
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://i.ibb.co/mBzCQJM/ANIMAX.png" group-title="Indonesia",Animax
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://iili.io/JrUQ47R.png" group-title="Indonesia",Animax
 http://iptvtree.net:8080/F14995/a84c0963/165081
 
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://i.ibb.co/ky7dbfN/ASIAN-FOOD.png" group-title="Indonesia",Asian Food Network
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://iili.io/JrUQ6ep.png" group-title="Indonesia",Asian Food Network
 http://iptvtree.net:8080/F14995/a84c0963/298503
 
-#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/zfCJnqk/AXN.png" group-title="Indonesia",AXN
+#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JrUQPmN.png" group-title="Indonesia",AXN
 https://testfunctionlive.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://i.ibb.co/NCWJyPN/BALI-TV.png" group-title="Indonesia",Bali TV
