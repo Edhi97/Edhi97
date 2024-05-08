@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.ibb.co/YdL9qNg/indosiar.png",Indosiar
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://iili.io/JrU6ept.png",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
