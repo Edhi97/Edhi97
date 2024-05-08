@@ -293,7 +293,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming /uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co/7JmCq31/BN.png",BN Channel
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://iili.io/JrUZ9kl.png",BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
@@ -392,7 +392,7 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== INDONESIA ===========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://github.com/Edhi97/Edhi97/blob/main/playlist" group-title="Indonesia",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://iili.io/JrUQrdv.png" group-title="Indonesia",ANIMAL PLANET
 http://iptvtree.net:8080/F14995/a84c0963/157532
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://iili.io/JrUQ47R.png" group-title="Indonesia",Animax
 http://iptvtree.net:8080/F14995/a84c0963/165081
@@ -403,23 +403,23 @@ http://iptvtree.net:8080/F14995/a84c0963/298503
 #EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JrUQPmN.png" group-title="Indonesia",AXN
 https://testfunctionlive.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://i.ibb.co/NCWJyPN/BALI-TV.png" group-title="Indonesia",Bali TV
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://iili.io/JrUQsII.png" group-title="Indonesia",Bali TV
 http://iptvtree.net:8080/F14995/a84c0963/197962
 #EXTINF:-1 tvg-id="" tvg-name="Balikpapan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="Indonesia",Balikpapan TV
 http://iptvtree.net:8080/F14995/a84c0963/166409
-#EXTINF:-1 tvg-id="" tvg-name="Bandung TV" tvg-logo="https://i.ibb.co/Wpb57Wc/BANDUNG-TV.png" group-title="Indonesia",Bandung TV
+#EXTINF:-1 tvg-id="" tvg-name="Bandung TV" tvg-logo="https://iili.io/JrUQLXt.png" group-title="Indonesia",Bandung TV
 http://iptvtree.net:8080/F14995/a84c0963/166416
 
-#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/LrJ11QX/BBC-EARTH.png" group-title="Indonesia",BBC Earth
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://iili.io/JrUQQLX.png" group-title="Indonesia",BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/YQX1hGJ/BBC-LIFE.png" group-title="Indonesia",BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://iili.io/JrUQtBn.png" group-title="Indonesia",BBC Lifestyle
 http://iptvtree.net:8080/F14995/a84c0963/264747
 
-#EXTINF:-1 tvg-id="" tvg-name="Berita Satu World" tvg-logo="https://i.ibb.co/cN416LX/BERITA-SATU-W.png" group-title="Indonesia",Berita Satu World
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu World" tvg-logo="https://iili.io/JrUQbrG.png" group-title="Indonesia",Berita Satu World
 http://iptvtree.net:8080/F14995/a84c0963/162136
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Kj5nxw4/BIOSKOP-IND.png",Bioskop Indonesia
@@ -427,10 +427,10 @@ http://iptvtree.net:8080/F14995/a84c0963/162136
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/Kj5nxw4/BIOSKOP-IND.png" group-title="Indonesia",Bioskop Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://iili.io/JrUQp2f.png" group-title="Indonesia",Bioskop Indonesia
 http://iptvtree.net:8080/F14995/a84c0963/264801
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1g0Tfh/BLOMBERG.png" group-title="Indonesia",Bloomberg TV
+#EXTINF:-1 tvg-logo="https://iili.io/JrUQy74.png" group-title="Indonesia",Bloomberg TV
 http://abcnew.site:8880/12mmk180105/81462658/71067
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/52m3QWN/BOOMERANG.png" group-title="Indonesia",Boomerang
