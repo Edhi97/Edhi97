@@ -1,5 +1,4 @@
 #EXTM3U
-<meta charset="UTF-8" content="teks/html"/>
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.ibb.co/YdL9qNg/indosiar.png",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
