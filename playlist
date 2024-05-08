@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/YdL9qNg/indosiar.png" group-title="Nasional", Indosiar
+#EXTINF: -1 tvg-logo="https://iili.io/JrU6ept.png" group-title="Nasional", Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo=" https://i.ibb.co/KK4d3Lg/TVRI.png" group-title="Nasional",TVRI Nasional
@@ -18,12 +18,12 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.ibb.co/wpdxwQW/RCTI.png",RCTI
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://iili.io/JrUPiiJ.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.ibb.co/wpdxwQW/RCTI.png" group-title="Nasional",RCTI
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://iili.io/JrUPiiJ.png" group-title="Nasional",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -54,9 +54,9 @@ https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/qjqJm23/SCTV.png" group-title="Nasional", SCTV
+#EXTINF: -1 tvg-logo="https://iili.io/JrUsMQe.png" group-title="Nasional", SCTV
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
-#EXTINF: -1 tvg-logo="https://i.ibb.co/qjqJm23/SCTV.png" group-title="Nasional", SCTV
+#EXTINF: -1 tvg-logo="https://iili.io/JrUsMQe.png" group-title="Nasional", SCTV
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j87cnVj/MOJI.png" group-title="Nasional",MOJI
