@@ -422,7 +422,7 @@ http://iptvtree.net:8080/F14995/a84c0963/264747
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu World" tvg-logo="https://iili.io/JrUQbrG.png" group-title="Indonesia",Berita Satu World
 http://iptvtree.net:8080/F14995/a84c0963/162136
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Kj5nxw4/BIOSKOP-IND.png",Bioskop Indonesia
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/JrUQp2f.png",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
