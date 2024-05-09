@@ -223,15 +223,6 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-name="SEA TODAY" tvg-logo="https://i.ibb.co/pZ987V3/seatoday.png" group-title="NEWS",SEA TODAY (V+)
 https://liveaneviadev.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Liga BRI",Liga BRI 3
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Liga BRI",Liga BRI 2
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Liga BRI",Liga BRI 1
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Liga BRI",Liga BRI
-http://103.226.232.196:8000/play/a00l/index.m3u8
-#EXTM3U
 
 ============= NASIONAL ====== =======
 
