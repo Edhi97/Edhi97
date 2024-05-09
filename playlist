@@ -424,13 +424,6 @@ http://iptvtree.net:8080/F14995/a84c0963/165103
 #EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="https://iili.io/JrUZKBe.png" group-title="Indonesia",Celestial Movies
 http://iptvtree.net:8080/F14995/a84c0963/165065
 
-#EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="Indonesia",Champion TV 1
-http://iptvtree.net:8080/F14995/a84c0963/298512
-#EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="Indonesia",Champion TV 2
-http://iptvtree.net:8080/F14995/a84c0963/298513
-#EXTINF:-1 tvg-id="" tvg-name="Champion TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="Indonesia",Champion TV 3
-http://iptvtree.net:8080/F14995/a84c0963/298514
-
 #EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://iili.io/JrUZfEu.png" group-title="Indonesia",CinemaWorld
 http://iptvtree.net:8080/F14995/a84c0963/165082
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iili.io/JrUZqrb.png" group-title="Indonesia",Cinemax
@@ -642,9 +635,6 @@ http://iptvtree.net:8080/F14995/a84c0963/166702
 http://iptvtree.net:8080/F14995/a84c0963/166686
 #EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="https://iili.io/JrgBjv2.png" group-title="Indonesia",TVRI Sulawesi Selatan
 http://iptvtree.net:8080/F14995/a84c0963/166699
-
-#EXTINF:-1 tvg-id="" tvg-name="Usee Prime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="Indonesia",Usee Prime
-http://iptvtree.net:8080/F14995/a84c0963/162524
 
 #EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://iili.io/JrgBhYl.png" group-title="Indonesia",Vision Prime
 http://iptvtree.net:8080/F14995/a84c0963/197958
