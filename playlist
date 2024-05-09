@@ -336,7 +336,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/db/Logo%280%29.png/revision/latest?cb=20231120154110" grup-title="NASIONAL",SANGAJI TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NYYVy9D/NTV.png" group-title="NASIONAL",NUSANTARA
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",NUSANTARA
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://iili.io/JrUtrDN.png" group-title="NASIONAL",Sakti TV
