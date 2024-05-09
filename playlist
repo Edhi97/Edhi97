@@ -125,7 +125,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MET.ID" group-title="Nasional" tvg-logo="https://i.ibb.co/VY6TKP7/METROTV.png",Metro TV
+#EXTINF:-1 tvg-id="MET.ID" group-title="Nasional" tvg-logo="https://iili.io/JrUtzcG.png",Metro TV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
@@ -190,7 +190,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/i
 #EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://iili.io/JrUtBnt.png" group-title="Nasional",MAXSTREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-#EXTINF:-1 tvg-id="oxygen.id" tvg-logo="https://i.ibb.co/7Vf8vQd/OXYGEN.png" group-title="Nasional",Oxygen TV
+#EXTINF:-1 tvg-id="oxygen.id" tvg-logo="https://iili.io/JrUtXDB.png" group-title="Nasional",Oxygen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #EXTINF:-1 tvg-id="tvkesehatan.id" tvg-logo="https://iili.io/JrUtJcJ.png" group-title="Nasional",TV Kesehatan
@@ -272,15 +272,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Hari Ini (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/ metro-globe-network-1ab3f1.jpg" group-title="NASIONAL",JARINGAN METRO GLOBE
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://iili.io/JrUZ9kl.png",BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
@@ -312,7 +303,7 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kKgyRvz/PESONA-IND.png" group-title="NASIONAL",Pesona Indonesia
+#EXTINF:-1 tvg-logo="https://iili.io/JrUtjoP.png" group-title="NASIONAL",Pesona Indonesia
 https://h1.intechmedia.net/intech/ch92.m3u8
 
 ##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="NASIONAL",SURABAYA TV
@@ -598,7 +589,7 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://iili.io/JrUtESj.png" group-title="Indonesia",My Kidz
 http://iptvtree.net:8080/F14995/a84c0963/298556
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/tzKrbk5/NIK-JR.png" group-title="Indonesia",Nick Jr
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://iili.io/JrgB52R.png" group-title="Indonesia",Nick Jr
 http://iptvtree.net:8080/F14995/a84c0963/165107
 
 #EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="Indonesia",nickelodeon
@@ -804,7 +795,7 @@ https://ythls-v2.onrender.com/channel/UCDRCl6JTjDKjyquagRWrkgA.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://iili.io/JrgB52R.png" group-title="KIDS", NICK JR
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
