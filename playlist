@@ -454,12 +454,7 @@ http://iptvtree.net:8080/F14995/a84c0963/165052
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://iili.io/JrUZRCF.png" group-title="Indonesia",Discovery World
 http://iptvtree.net:8080/F14995/a84c0963/157597
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="Indonesia",Disney Channel
-http://iptvtree.net:8080/F14995/a84c0963/165075
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://iili.io/JrUZ74a.png" group-title="Indonesia",Disney Junior
-http://iptvtree.net:8080/F14995/a84c0963/162511
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="Indonesia",Disney XD
-http://iptvtree.net:8080/F14995/a84c0963/276564
+
 #EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="Indonesia",DreamWorks
 http://iptvtree.net:8080/F14995/a84c0963/157610
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="Indonesia",Dunia Anak
@@ -659,6 +654,12 @@ http://iptvtree.net:8080/F14995/a84c0963/157594
 http://iptvtree.net:8080/F14995/a84c0963/157584
 
 ===========================KIDS==============================
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://iili.io/JrUZ74a.png" group-title="KIDS",Disney Junior
+http://iptvtree.net:8080/F14995/a84c0963/162511
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="KIDS",Disney Channel
+http://iptvtree.net:8080/F14995/a84c0963/165075
 
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="https://i.ibb.co/2FGJLGg/abckids.png" group-title="KIDS", ABC KIDS
 https://c.mjh.nz/abc-kids.m3u8
