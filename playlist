@@ -258,7 +258,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://hometv.pw/logo/lokal/sindo_news.png" group-title="NASIONAL",SINDO NEWS (V+)
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://iili.io/JrUtiiX.png" group-title="NASIONAL",SINDO NEWS (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -271,7 +271,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 
-#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://i.ibb.co/V2xZMVx/cnn.png" group-title="NASIONAL",CNN INDONESIA
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://iili.io/JrUZxpV.png" group-title="NASIONAL",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
@@ -312,7 +312,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NCWJyPN/BALI-TV.png" group-title="NASIONAL", Bali Tv
+#EXTINF:-1 tvg-logo="https://iili.io/JrUQsII.png" group-title="NASIONAL", Bali Tv
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
@@ -336,13 +336,13 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZLyQ.png" group-title="NASIONAL",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t8H4tQb/TV-KU.png" group-title="NASIONAL ",TVKU
+#EXTINF:-1 tvg-logo="https://iili.io/JrUtmOl.png" group-title="NASIONAL ",TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZDZP.png" group-title="NASIONAL",JITV HD
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yFtzs4n/UGTV.png" group-title="NASIONAL",UGTV
+#EXTINF:-1 tvg-logo="https://iili.io/JrUD2fe.png" group-title="NASIONAL",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/db/Logo%280%29.png/revision/latest?cb=20231120154110" grup-title="NASIONAL",SANGAJI TV
@@ -351,13 +351,13 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NYYVy9D/NTV.png" group-title="NASIONAL",NUSANTARA
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.ibb.co/4JgrCsN/SAKTI-TV.png" group-title="NASIONAL",Sakti TV
+#EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://iili.io/JrUtrDN.png" group-title="NASIONAL",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://iili.io/JrUZlvR.png" group-title="NASIONAL",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TegarTVLampung" tvg-logo="https://i.ibb.co/0hdmgRk/TEGAR-TV.png" group-title="NASIONAL",Tegar TV Lampung
+#EXTINF:-1 tvg-id="TegarTVLampung" tvg-logo="https://iili.io/JrUtQls.png" group-title="NASIONAL",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/l2e0yba8adweea2wpqm71/Jowo.jpeg?rlkey=x1n6sxplsv3i1wcdmindxgmmf&dl=0" group-title="NASIONAL", JOWO
@@ -374,14 +374,14 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZpMF.png" group-title="NASIONAL",JPM TV
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDj1NkC/SIMPANG5.png" group-title="NASIONAL",Simpang5 TV
+#EXTINF:-1 tvg-logo="https://iili.io/JrUtPVt.png" group-title="NASIONAL",Simpang5 TV
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/brtv.png" group-title="NASIONAL",BRTV
 https://e1.siar.us/badartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rj7Lp27/SMTV.png" group-title="NASIONAL",SMTV
-http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JrUtLfn.png" group-title="NASIONAL",SMTV
+http://63b2dc7196c38.st.pngreamlock.net:1935/ch25/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtURR.png" group-title="NASIONAL",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
@@ -467,10 +467,10 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/c
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/V2xZMVx/cnn.png" group-title="Indonesia",CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://iili.io/JrUZxpV.png" group-title="Indonesia",CNN Indonesia
 http://iptvtree.net:8080/F14995/a84c0963/162137
 
-#EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="https://i.ibb.co/mHdH2db/CRIME.png" group-title="Indonesia",Crime+ Investigation
+#EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="https://iili.io/JrUZITB.png" group-title="Indonesia",Crime+ Investigation
 http://iptvtree.net:8080/F14995/a84c0963/165052
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://iili.io/JrUZRCF.png" group-title="Indonesia",Discovery World
@@ -539,7 +539,7 @@ EXTINF:-1 tvg-logo="https://iili.io/JrUZgn9.png" group-title="Indonesia",Hits
 #KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
 https://liveaneviadev.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://i.ibb.co/FxV0pcF/HITS.png" group-title="Indonesia",Hits
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://iili.io/JrUZgn9.png" group-title="Indonesia",Hits
 http://iptvtree.net:8080/F14995/a84c0963/165085
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://iili.io/JrUZSZ7.png" group-title="Indonesia",Hits Movies
 http://iptvtree.net:8080/F14995/a84c0963/221947
@@ -591,7 +591,7 @@ http://iptvtree.net:8080/F14995/a84c0963/264756
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Indonesia" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/SdgjWgY/SINDONEWS.png",SindoNews
+#EXTINF:-1 group-title="Indonesia" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JrUtiiX.png",SindoNews
 https://testfunctionlive.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MTA 7 Asia" tvg-logo="https://i.ibb.co/0BL50FV/MTA7.png" group-title="Indonesia",MTA 7 Asia
@@ -636,10 +636,10 @@ http://iptvtree.net:8080/F14995/a84c0963/264758
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SONY ONE" tvg-logo="https://i.ibb.co/dL2N2f4/SONY-ONE.png" group-title="Indonesia",Sony One
+#EXTINF:-1 tvg-name="SONY ONE" tvg-logo="https://iili.io/JrgB1Qn.png" group-title="Indonesia",Sony One
 https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Tegar TV Lampung" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b2ae084f3c3450b3f8050b67cd5926e.jpg" group-title="Indonesia",Tegar TV Lampung
+#EXTINF:-1 tvg-id="" tvg-name="Tegar TV Lampung" tvg-logo="https://iili.io/JrUtQls.png" group-title="Indonesia",Tegar TV Lampung
 http://iptvtree.net:8080/F14995/a84c0963/166411
 
 #EXTINF:-1 tvg-id="thrill.hk" tvg-logo="https://iili.io/JrUtZUG.png" group-title="Indonesia",Thrill
@@ -647,36 +647,36 @@ http://iptvtree.net:8080/F14995/a84c0963/166411
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 9 Nusantara" tvg-logo="https://i.ibb.co/NszfrpM/TV9.png" group-title="Indonesia",TV 9 Nusantara
+#EXTINF:-1 tvg-id="" tvg-name="TV 9 Nusantara" tvg-logo="https://iili.io/JrgBGBs.png" group-title="Indonesia",TV 9 Nusantara
 http://iptvtree.net:8080/F14995/a84c0963/162509
-#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://i.ibb.co/t8H4tQb/TV-KU.png" group-title="Indonesia",TVKU
+#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://iili.io/JrUtmOl.png" group-title="Indonesia",TVKU
 http://iptvtree.net:8080/F14995/a84c0963/166709
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/Wp6tYq0/TVN.png",TVN
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/JrgBMEG.png",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/d0QZz20/TVN-MOVIES.png",TVN Movies
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/JrgBV4f.png",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Tengah" tvg-logo="https://i.ibb.co/ZX1KmdZ/TVRI-KALTENG.png" group-title="Indonesia",TVRI Kalimantan Tengah
+https://i.ibb.c
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Tengah" tvg-logo="https://iili.io/JrgBX24.png" group-title="Indonesia",TVRI Kalimantan Tengah
 http://iptvtree.net:8080/F14995/a84c0963/166702
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Indonesia",TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://iili.io/JrUD9xS.png" group-title="Indonesia",TVRI Sport
 http://iptvtree.net:8080/F14995/a84c0963/166686
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="https://i.ibb.co/HhrPpYs/TVRI-SULSEL.png" group-title="Indonesia",TVRI Sulawesi Selatan
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="https://iili.io/JrgBjv2.png" group-title="Indonesia",TVRI Sulawesi Selatan
 http://iptvtree.net:8080/F14995/a84c0963/166699
 
 #EXTINF:-1 tvg-id="" tvg-name="Usee Prime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="Indonesia",Usee Prime
 http://iptvtree.net:8080/F14995/a84c0963/162524
 
-#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://i.ibb.co/NycYh2X/VISION-PRIME.png" group-title="Indonesia",Vision Prime
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="https://iili.io/JrgBhYl.png" group-title="Indonesia",Vision Prime
 http://iptvtree.net:8080/F14995/a84c0963/197958
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/sPsv93d/WARNER.png" group-title="Indonesia",Warner TV
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://iili.io/JrgBOT7.png" group-title="Indonesia",Warner TV
 http://iptvtree.net:8080/F14995/a84c0963/157594
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="https://i.ibb.co/2yXnJ09/ZEE-BIOSKOP.png" group-title="Indonesia",Zee Bioskop
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="https://iili.io/JrgBwpS.png" group-title="Indonesia",Zee Bioskop
 http://iptvtree.net:8080/F14995/a84c0963/157584
 
 ===========================KIDS==============================
@@ -1272,7 +1272,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/mani
 #KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
 https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 
-#EXTINF:-1 tvg-id="tvN Movies - [Channel 25].id" tvg-name="TVN MOVIES" tvg-logo="https://i.ibb.co/vc5S95M/tvnmovies.png" group-title="CHANNEL | MOVIES", TVN MOVIES 🇰🇷
+#EXTINF:-1 tvg-id="tvN Movies - [Channel 25].id" tvg-name="TVN MOVIES" tvg-logo="https://iili.io/JrgBV4f.png" group-title="CHANNEL | MOVIES", TVN MOVIES 🇰🇷
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1310,7 +1310,7 @@ https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/jio/stream.m3u8?id=488
 
-#EXTINF:-1 tvg-id="Zee Bioskop - [Channel 23].id" tvg-name="ZEE BIOSKOP" tvg-logo="https://i.ibb.co/vXvYKTB/zeebioskop.png" group-title="CHANNEL | MOVIES", ZEE BIOSKOP 🇮🇳
+#EXTINF:-1 tvg-id="Zee Bioskop - [Channel 23].id" tvg-name="ZEE BIOSKOP" tvg-logo="https://iili.io/JrgBwpS.png" group-title="CHANNEL | MOVIES", ZEE BIOSKOP 🇮🇳
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -3610,7 +3610,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f4
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-Ic3XRx_AH-xBEfoRYG-cA","k":"gYMAeTI1mjzxRRmLUSkRnA"}]}
 ##https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TV_PUBLICA)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tX3L04b/tvrisport.png" group-title="SPORTS", TVRI SPORT 🇮🇩
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JrUD9xS.png" group-title="SPORTS", TVRI SPORT 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
