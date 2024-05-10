@@ -408,10 +408,6 @@ http://iptvtree.net:8080/F14995/a84c0963/165109
 
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="Indonesia",CBeebies
 http://iptvtree.net:8080/F14995/a84c0963/247448
-#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://iili.io/JrgBYkN.png" group-title="Indonesia",CCM
-http://iptvtree.net:8080/F14995/a84c0963/165103
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="https://iili.io/JrUZKBe.png" group-title="Indonesia",Celestial Movies
-http://iptvtree.net:8080/F14995/a84c0963/165065
 
 #EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://iili.io/JrUZfEu.png" group-title="Indonesia",CinemaWorld
 http://iptvtree.net:8080/F14995/a84c0963/165082
@@ -982,15 +978,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="2755" tvg-logo="https://static.mncnow.id/images/channel/b8a82039/b40f.png" group-title="MOVIES | ENTERTAINMEN", Film Klasik Surgawi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://iili.io/JrgBYkN.png" group-title="MOVIES | ENTERTAINMEN",Celestial Clasic Movies
+http://iptvtree.net:8080/F14995/a84c0963/165103
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="2443" tvg-logo="https://static.mncnow.id/images/channel/920951dc/fad9.png" group-title="MOVIES | ENTERTAINMEN", Film Surgawi
+#EXTINF:-1 tvg-id="2755" tvg-logo="https://static.mncnow.id/images/channel/b8a82039/b40f.png" group-title="MOVIES | ENTERTAINMEN", Celestial Clasic Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="https://iili.io/JrUZKBe.png" group-title="MOVIES | ENTERTAINMEN",Celestial Movies
+http://iptvtree.net:8080/F14995/a84c0963/165065
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:-1 tvg-id="2443" tvg-logo="https://iili.io/JrUZKBe.png" group-title="MOVIES | ENTERTAINMEN", Celestial Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
