@@ -541,9 +541,6 @@ http://iptvtree.net:8080/F14995/a84c0963/165091
 #EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://iili.io/JrUtHFa.png" group-title="Indonesia",K+
 http://iptvtree.net:8080/F14995/a84c0963/197969
 
-#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Indonesia",Kids TV
-http://iptvtree.net:8080/F14995/a84c0963/162505
-
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://iili.io/JrUt39R.png" group-title="Indonesia",Lifetime
 http://iptvtree.net:8080/F14995/a84c0963/298543
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://iili.io/JrUtKwN.png" group-title="Indonesia",Love Nature
@@ -639,6 +636,9 @@ http://iptvtree.net:8080/F14995/a84c0963/157594
 http://iptvtree.net:8080/F14995/a84c0963/157584
 
 ===========================KIDS==============================
+
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="KIDS",Kids TV
+http://iptvtree.net:8080/F14995/a84c0963/162505
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://iili.io/JrUZ74a.png" group-title="KIDS",Disney Junior
 http://iptvtree.net:8080/F14995/a84c0963/162511
