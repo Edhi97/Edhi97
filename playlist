@@ -570,11 +570,6 @@ https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Tegar TV Lampung" tvg-logo="https://iili.io/JrUtQls.png" group-title="Indonesia",Tegar TV Lampung
 http://iptvtree.net:8080/F14995/a84c0963/166411
 
-#EXTINF:-1 tvg-id="thrill.hk" tvg-logo="https://iili.io/JrUtZUG.png" group-title="Indonesia",Thrill
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV 9 Nusantara" tvg-logo="https://iili.io/JrgBGBs.png" group-title="Indonesia",TV 9 Nusantara
 http://iptvtree.net:8080/F14995/a84c0963/162509
 #EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://iili.io/JrUtmOl.png" group-title="Indonesia",TVKU
@@ -1187,9 +1182,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/Shangh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/TV5now/sa_dash_vmx/TV5now.mpd
 
+#EXTINF:-1 tvg-id="thrill.hk" tvg-logo="https://iili.io/JrUtZUG.png" group-title="MOVIES | ENTERTAINMEN",Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="2440" tvg-logo="https://static.mncnow.id/images/channel/23403532/a734.png" group-title="MOVIES | ENTERTAINMEN", Thrill
+#EXTINF:-1 tvg-id="2440" tvg-logo="https://static.mncnow.id/images/channel/23403532/a734.png" group-title="MOVIES | ENTERTAINMEN",Thrill
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
