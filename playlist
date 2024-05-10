@@ -456,7 +456,12 @@ http://iptvtree.net:8080/F14995/a84c0963/165057
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="Indonesia",Fox Life
 http://iptvtree.net:8080/F14995/a84c0963/165083
 
-EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="Indonesia"  tvg-logo="https://iili.io/JrUZETN.png",GALAXY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Indonesia" tvg-id="Galaxy - [Saluran 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg- logo="https://iili.io/JrUZETN.png",GALAXY
