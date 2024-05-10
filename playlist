@@ -493,14 +493,6 @@ http://iptvtree.net:8080/F14995/a84c0963/299486
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://iili.io/JrUZ46u.png" group-title="Indonesia",IDX Channel
 http://iptvtree.net:8080/F14995/a84c0963/157590
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/JrUZP3b.png",IMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://iili.io/JrUZP3b.png" ghttps://iptv.urfan.web.id/logo/imc.pngroup-title="Indonesia",IMC
-http://iptvtree.net:8080/F14995/a84c0963/264769
-
 #EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="https://iili.io/JrUZiaj.png" group-title="Indonesia",Indi Kids
 http://iptvtree.net:8080/F14995/a84c0963/298539
 
@@ -542,9 +534,6 @@ http://iptvtree.net:8080/F14995/a84c0963/165108
 http://iptvtree.net:8080/F14995/a84c0963/298553
 #EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="https://iili.io/JrUtaV9.png" group-title="Indonesia",My Cinema Asia
 http://iptvtree.net:8080/F14995/a84c0963/298554
-
-#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://iili.io/JrUt0Ku.png" group-title="Indonesia",My Family
-http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://iili.io/JrUtESj.png" group-title="Indonesia",My Kidz
 http://iptvtree.net:8080/F14995/a84c0963/298556
@@ -1067,9 +1056,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://iili.io/JrUZP3b.png" ghttps://iptv.urfan.web.id/logo/imc.pngroup-title="MOVIES | ENTERTAINMEN",IMC
+http://iptvtree.net:8080/F14995/a84c0963/264769
+
+#EXTINF:-1 group-title="MOVIES | ENTERTAINMEN" tvg-logo="https://iili.io/JrUZP3b.png",IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="42050" tvg-logo="https://static.mncnow.id/images/channel/744ecff1/e339.png" group-title="MOVIES | ENTERTAINMEN", IMC
+#EXTINF:-1 tvg-id="42050" tvg-logo="https://iili.io/JrUZP3b.png" group-title="MOVIES | ENTERTAINMEN", IMC
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
@@ -1127,9 +1124,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://iili.io/JrUt0Ku.png" group-title="MOVIES | ENTERTAINMEN",My Family
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="61934" tvg-logo="https://static.mncnow.id/images/channel/e129f16c/7616.png" group-title="MOVIES | ENTERTAINMEN", My Family
+#EXTINF:-1 tvg-id="61934" tvg-logo="https://iili.io/JrUt0Ku.png" group-title="MOVIES | ENTERTAINMEN", My Family
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
