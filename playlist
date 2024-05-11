@@ -1037,7 +1037,7 @@ http://iptvtree.net:8080/F14995/a84c0963/221947
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://iili.io/JrUZOv4.png" group-title="Indonesia",HBO
+#EXTINF:-1 tvg-logo="https://iili.io/JrUZOv4.png" group-title="MOVIES | ENTERTAINMEN",HBO
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iili.io/JrUZOv4.png" group-title="MOVIES | ENTERTAINMEN",HBO
