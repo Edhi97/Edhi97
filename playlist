@@ -29,7 +29,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e8258
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://iili.io/JrUtu94.png" group-title="Nasional,MNC TV
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://iili.io/JrUtu94.png" group-title="Nasional",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
