@@ -416,11 +416,7 @@ http://iptvtree.net:8080/F14995/a84c0963/165083
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://iili.io/JrUZeyl.png" group-title="NASIONAL | INDONESIA",HGTV
 http://iptvtree.net:8080/F14995/a84c0963/298535
-#EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee!" tvg-logo="https://iili.io/JrUZvu2.png" group-title="NASIONAL | INDONESIA",Hip Hip Horee!
-http://iptvtree.net:8080/F14995/a84c0963/298536
 
-#EXTINF:-1 tvg-id="" tvg-name="Horee!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="NASIONAL | INDONESIA",Horee!
-http://iptvtree.net:8080/F14995/a84c0963/264750
 #EXTINF:-1 tvg-id="" tvg-name="Huma Betang TV" tvg-logo="https://iili.io/JrUZrGe.png" group-title="NASIONAL | INDONESIA",Huma Betang TV
 http://iptvtree.net:8080/F14995/a84c0963/299486
 
@@ -586,6 +582,9 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 https://e.siar.us/live/dtvi.m3u8
 
 ===========================KIDS==============================
+
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee!" tvg-logo="https://iili.io/JrUZvu2.png" group-title="KIDS",Hip Hip Horee!
+http://iptvtree.net:8080/F14995/a84c0963/298536
 
 #EXTINF:-1 tvg-id="cbeebiesasia.uk" tvg-logo="https://iptv.urfan.web.id/logo/cbeebies.png" group-title="KIDS",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
