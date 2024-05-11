@@ -431,8 +431,6 @@ http://iptvtree.net:8080/F14995/a84c0963/299486
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://iili.io/JrUZ46u.png" group-title="NASIONAL | INDONESIA",IDX Channel
 http://iptvtree.net:8080/F14995/a84c0963/157590
 
-#EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="https://iili.io/JrUZiaj.png" group-title="NASIONAL | INDONESIA",Indi Kids
-http://iptvtree.net:8080/F14995/a84c0963/298539
 
 #EXTINF:-1 tvg-id="" tvg-name="Infotainment" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="NASIONAL | INDONESIA",Infotainment
 http://iptvtree.net:8080/F14995/a84c0963/298541
@@ -529,6 +527,10 @@ http://iptvtree.net:8080/F14995/a84c0963/157594
 
 
 ===========================KIDS==============================
+
+#EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="https://iili.io/JrUZiaj.png" group-title="KIDS",Indi Kids
+http://iptvtree.net:8080/F14995/a84c0963/298539
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="KIDS",Kids TV
 http://iptvtree.net:8080/F14995/a84c0963/162505
