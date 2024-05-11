@@ -364,14 +364,9 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://iili.io/JrUQrdv.png" group-title="Indonesia",ANIMAL PLANET
 http://iptvtree.net:8080/F14995/a84c0963/157532
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://iili.io/JrUQ47R.png" group-title="Indonesia",Animax
-http://iptvtree.net:8080/F14995/a84c0963/165081
 
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://iili.io/JrUQ6ep.png" group-title="Indonesia",Asian Food Network
 http://iptvtree.net:8080/F14995/a84c0963/298503
-
-#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JrUQPmN.png" group-title="Indonesia",AXN
-https://testfunctionlive.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://iili.io/JrUQsII.png" group-title="Indonesia",Bali TV
 http://iptvtree.net:8080/F14995/a84c0963/197962
@@ -392,14 +387,6 @@ http://iptvtree.net:8080/F14995/a84c0963/264747
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu World" tvg-logo="https://iili.io/JrUQbrG.png" group-title="Indonesia",Berita Satu World
 http://iptvtree.net:8080/F14995/a84c0963/162136
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/JrUQp2f.png",Bioskop Indonesia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://iili.io/JrUQp2f.png" group-title="Indonesia",Bioskop Indonesia
-http://iptvtree.net:8080/F14995/a84c0963/264801
-
 #EXTINF:-1 tvg-logo="https://iili.io/JrUQy74.png" group-title="Indonesia",Bloomberg TV
 http://abcnew.site:8880/12mmk180105/81462658/71067
 
@@ -408,11 +395,6 @@ http://iptvtree.net:8080/F14995/a84c0963/165109
 
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="Indonesia",CBeebies
 http://iptvtree.net:8080/F14995/a84c0963/247448
-
-#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://iili.io/JrUZfEu.png" group-title="Indonesia",CinemaWorld
-http://iptvtree.net:8080/F14995/a84c0963/165082
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iili.io/JrUZqrb.png" group-title="Indonesia",Cinemax
-http://iptvtree.net:8080/F14995/a84c0963/197964
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://iili.io/JrUZC2j.png",Citra Dangdut
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -616,7 +598,10 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-me" tvg-name="" tvg-logo="https://i.ibb.co/rkFbwRV/abcme.png" group-title="KIDS", ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX.
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://iili.io/JrUQ47R.png" group-title="KIDS", ANIMAX
+http://iptvtree.net:8080/F14995/a84c0963/165081
+
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
@@ -935,12 +920,26 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 ================= MOVIES | ENTERTAINMEN ================
 
+#EXTINF:-1 group-title="MOVIES | ENTERTAINMEN" tvg-logo="https://iili.io/JrUQp2f.png",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iili.io/JrUZqrb.png" group-title="MOVIES | ENTERTAINMEN",Cinemax
+http://iptvtree.net:8080/F14995/a84c0963/197964
+
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://iili.io/JrUQp2f.png" group-title="MOVIES | ENTERTAINMEN",Bioskop Indonesia
+http://iptvtree.net:8080/F14995/a84c0963/264801
+
 #EXTINF:-1 group-title="MOVIES | ENTERTAINMEN" tvg-logo="https://i.imgur.com/zd0xVpG.jpg", ACTION MOVIE
 http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1234567890&deviceId=1234567890&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
 
+#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JrUQPmN.png" group-title="MOVIES | ENTERTAINMEN",AXN
+https://testfunctionlive.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="70" tvg-logo="https://static.mncnow.id/images/channel/631afaf4/b65f.png" group-title="MOVIES | ENTERTAINMEN", AXN
+#EXTINF:-1 tvg-id="70" tvg-logo="https://iili.io/JrUQPmN.png" group-title="MOVIES | ENTERTAINMEN", AXN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
@@ -949,12 +948,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 tvg-id="7435" tvg-logo="https://static.mncnow.id/images/channel/0374f319/1546.png" group-title="MOVIES | ENTERTAINMEN"Anhui TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="71" tvg-logo="https://static.mncnow.id/images/channel/b21905b7/540e.png" group-title="MOVIES | ENTERTAINMEN", Animax
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
