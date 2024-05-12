@@ -22,7 +22,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 group-title="NASIONAL | INDONESIA" tvg-logo="https://iili.io/JrUPiiJ.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=cubmu-web.firebaseapp.com/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-web.firebaseapp.com/
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://iili.io/JrUPiiJ.png" group-title="NASIONAL | INDONESIA",RCTI
