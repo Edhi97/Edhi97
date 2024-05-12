@@ -1145,16 +1145,20 @@ http://iptvtree.net:8080/F14995/a84c0963/196480
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://iili.io/JrUZNaf.png" group-title="MOVIES | ENTERTAINMEN",HBO Signature
 http://iptvtree.net:8080/F14995/a84c0963/221948
 
-#EXTINF:-1 group-title="MOVIES | ENTERTAINMEN" tvg-logo="https://iili.io/JrUQp2f.png",Bioskop Indonesia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iili.io/JrUZqrb.png" group-title="MOVIES | ENTERTAINMEN",Cinemax
 http://iptvtree.net:8080/F14995/a84c0963/197964
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZfEu.png" group-title="MOVIES | ENTERTAINMEN",Cinema World HD
 https://testfunctionlive.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-name="Bioskop Indonesia" tvg-logo="https://iili.io/JrUQp2f.png" group-title="MOVIES | ENTERTAINMEN",Bioskop Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptif
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://iili.io/JrUQp2f.png" group-title="MOVIES | ENTERTAINMEN",Bioskop Indonesia
 http://iptvtree.net:8080/F14995/a84c0963/264801
