@@ -250,7 +250,7 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SEA TODAY" tvg-logo="https://i.ibb.co/pZ987V3/seatoday.png" group-title="NASIONAL | INDONESIA",SEA TODAY
+#EXTINF:-1 tvg-name="SEA TODAY" tvg-logo="https://iili.io/J6Cyeb2.png" group-title="NASIONAL | INDONESIA",SEA TODAY
 https://liveaneviadev.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -328,7 +328,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JrUD2fe.png" group-title="NASIONAL | INDONESIA",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/db/Logo%280%29.png/revision/latest?cb=20231120154110" group-title="NASIONAL | INDONESIA",SANGAJI TV
+#EXTINF:-1 tvg-logo="https://iili.io/J6CyNR4.png" group-title="NASIONAL | INDONESIA",SANGAJI TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtWNV.png" group-title="NASIONAL | INDONESIA",NUSANTARA
@@ -343,7 +343,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TegarTVLampung" tvg-logo="https://iili.io/JrUtQls.png" group-title="NASIONAL | INDONESIA",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/l2e0yba8adweea2wpqm71/Jowo.jpeg?rlkey=x1n6sxplsv3i1wcdmindxgmmf&dl=0" group-title="NASIONAL | INDONESIA", JOWO
+#EXTINF:-1 tvg-logo="https://iili.io/J6CyXls.png" group-title="NASIONAL | INDONESIA", JOWO
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h231/index.m3u8?app_type=web&userid=lite&chname=Jowo
@@ -383,7 +383,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298503
 
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://iili.io/JrUQsII.png" group-title="NASIONAL | INDONESIA",Bali TV
 http://iptvtree.net:8080/F14995/a84c0963/197962
-#EXTINF:-1 tvg-id="" tvg-name="Balikpapan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="NASIONAL | INDONESIA",Balikpapan TV
+#EXTINF:-1 tvg-id="" tvg-name="Balikpapan TV" tvg-logo="https://iili.io/J6CyMiX.png" group-title="NASIONAL | INDONESIA",Balikpapan TV
 http://iptvtree.net:8080/F14995/a84c0963/166409
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUQLXt.png" group-title="NASIONAL | INDONESIA",Bandung TV
@@ -490,7 +490,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298556
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://iili.io/JrgB52R.png" group-title="NASIONAL | INDONESIA",Nick Jr
 http://iptvtree.net:8080/F14995/a84c0963/165107
 
-#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="NASIONAL | INDONESIA",nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="https://iili.io/J6CywJf.png" group-title="NASIONAL | INDONESIA",nickelodeon
 http://iptvtree.net:8080/F14995/a84c0963/162510
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -582,11 +582,11 @@ http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="madutv.id" tvg-logo="https://iptv.urfan.web.id/logo/madutv.png" group-title="NASIONAL | INDONESIA",Madu TV
+#EXTINF:-1 tvg-id="madutv.id" tvg-logo="https://iili.io/J6CyhUG.png" group-title="NASIONAL | INDONESIA",Madu TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pujatvaceh.id" tvg-logo="https://iptv.urfan.web.id/logo/pujatv.png" group-title="NASIONAL | INDONESIA",Puja TV
+#EXTINF:-1 tvg-id="pujatvaceh.id" tvg-logo="https://iili.io/J6CyOOl.png" group-title="NASIONAL | INDONESIA",Puja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://v6.siar.us/pujatv/live/playlist.m3u8
 
@@ -594,7 +594,7 @@ https://v6.siar.us/pujatv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.armelin.one/channel/UCp0Vb-bWRsJ9rci26TCXV7g.m3u8
 
-#EXTINF:-1 tvg-id="TATV.id" tvg-logo="https://iptv.urfan.web.id/logo/tatv.png" group-title="NASIONAL | INDONESIA",TATV
+#EXTINF:-1 tvg-id="TATV.id" tvg-logo="https://iili.io/J6CyvxS.png" group-title="NASIONAL | INDONESIA",TATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
@@ -602,7 +602,7 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/dtvi.png" group-title="NASIONAL | INDONESIA",dTVi
+#EXTINF:-1 tvg-logo="https://iili.io/J6CyWfn.png" group-title="NASIONAL | INDONESIA",dTVi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://e.siar.us/live/dtvi.m3u8
 
@@ -684,7 +684,7 @@ https://liveaneviadev.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi
 #EXTINF:-1 channel-id="pluto-5d14fb6c84dd37df3b4290c5" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://i.ibb.co/C29CLPp/doratv.png" tvg-chno="3140" group-title="KIDS" , Dora TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="KIDS",DreamWorks
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://iili.io/J6CyExI.png" group-title="KIDS",DreamWorks
 http://108.181.56.241:8070/F14995/a84c0963/157610
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NyMzNn3/disneych.png" group-title="KIDS", DISNEY CHANNEL
