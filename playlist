@@ -1350,12 +1350,6 @@ http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="61934" tvg-logo="https://iili.io/JrUt0Ku.png" group-title="MOVIES | ENTERTAINMEN", My Family
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="2925" tvg-logo="https://static.mncnow.id/images/channel/fac095a3/0f0e.png" group-title="MOVIES | ENTERTAINMEN", NHK World Japan
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
