@@ -440,10 +440,6 @@ http://iptvtree.net:8080/F14995/a84c0963/299486
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://iili.io/JrUZ46u.png" group-title="NASIONAL | INDONESIA",IDX Channel
 http://iptvtree.net:8080/F14995/a84c0963/157590
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Infotainment" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="NASIONAL | INDONESIA",Infotainment
-http://iptvtree.net:8080/F14995/a84c0963/298541
-
 EXTINF:-1 group-title="NASIONAL | INDONESIA" tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",Insert
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
