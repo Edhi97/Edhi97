@@ -427,9 +427,6 @@ http://iptvtree.net:8080/F14995/a84c0963/165052
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://iili.io/JrUZRCF.png" group-title="NASIONAL | INDONESIA",Discovery World
 http://iptvtree.net:8080/F14995/a84c0963/157597
 
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="NASIONAL | INDONESIA",DreamWorks
-http://iptvtree.net:8080/F14995/a84c0963/157610
-
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://iili.io/JrUZcYv.png" group-title="NASIONAL | INDONESIA",Dunia Lain
 http://iptvtree.net:8080/F14995/a84c0963/298524
 #EXTINF:-1 tvg-id="" tvg-name="Eat&Go" tvg-logo="https://iili.io/JrUZ0pp.png" group-title="NASIONAL | INDONESIA",Eat&Go
@@ -686,12 +683,6 @@ https://liveaneviadev.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi
 
 #EXTINF:-1 channel-id="pluto-5d14fb6c84dd37df3b4290c5" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://i.ibb.co/C29CLPp/doratv.png" tvg-chno="3140" group-title="KIDS" , Dora TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-name="" tvg-logo="https://i.ibb.co/932vZfR/dreamworks.png" group-title="KIDS", DREAMWORKS
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157610
-
-#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-name="" tvg-logo="https://i.ibb.co/932vZfR/dreamworks.png" group-title="KIDS", DREAMWORKS
-http://iptvtree.net:8080/c4596f70/c3848d92/157610
 
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="KIDS",DreamWorks
 http://108.181.56.241:8070/F14995/a84c0963/157610
