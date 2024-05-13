@@ -427,8 +427,6 @@ http://iptvtree.net:8080/F14995/a84c0963/157597
 http://iptvtree.net:8080/F14995/a84c0963/298524
 #EXTINF:-1 tvg-id="" tvg-name="Eat&Go" tvg-logo="https://iili.io/JrUZ0pp.png" group-title="NASIONAL | INDONESIA",Eat&Go
 http://iptvtree.net:8080/F14995/a84c0963/264765
-#EXTINF:-1 tvg-id="" tvg-name="Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="NASIONAL | INDONESIA",Ent
-http://iptvtree.net:8080/F14995/a84c0963/157581
 
 #EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="NASIONAL | INDONESIA",FMN
 http://iptvtree.net:8080/F14995/a84c0963/165057
@@ -1101,8 +1099,10 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 ================= MOVIES | ENTERTAINMEN ================
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="NASIONAL | INDONESIA",Ent
+http://iptvtree.net:8080/F14995/a84c0963/157581
 
-EXTINF:-1 tvg-logo="https://iili.io/JrUZgn9.png" group-title="MOVIES | ENTERTAINMEN",Hits
+#EXTINF:-1 tvg-logo="https://iili.io/JrUZgn9.png" group-title="MOVIES | ENTERTAINMEN",Hits
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
