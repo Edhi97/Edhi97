@@ -1139,7 +1139,13 @@ http://iptvtree.net:8080/F14995/a84c0963/221948
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iili.io/JrUZqrb.png" group-title="MOVIES | ENTERTAINMEN",Cinemax
 http://iptvtree.net:8080/F14995/a84c0963/197964
 
-#EXTINF:-1 tvg-logo="https://iili.io/JrUZfEu.png" group-title="MOVIES | ENTERTAINMEN",Cinema World HD
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CINEMA WORLD" tvg-logo="https://iili.io/JrUZfEu.png" group-title="MOVIES | ENTERTAINMEN", CINEMA WORLD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JrUZfEu.png" group-title="MOVIES | ENTERTAINMEN", CINEMA WORLD
 https://testfunctionlive.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-name="Bioskop Indonesia" tvg-logo="https://iili.io/JrUQp2f.png" group-title="MOVIES | ENTERTAINMEN",Bioskop Indonesia
