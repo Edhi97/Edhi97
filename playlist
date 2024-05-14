@@ -458,7 +458,6 @@ http://iptvtree.net:8080/F14995/a84c0963/298543
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://iili.io/JrUtKwN.png" group-title="NASIONAL | INDONESIA",Love Nature
 http://iptvtree.net:8080/F14995/a84c0963/264756
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -470,9 +469,6 @@ http://iptvtree.net:8080/F14995/a84c0963/162522
 
 #EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="https://iili.io/JrUtYo7.png" group-title="NASIONAL | INDONESIA",Music TV
 http://iptvtree.net:8080/F14995/a84c0963/165108
-
-#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://iili.io/JrUtESj.png" group-title="NASIONAL | INDONESIA",My Kidz
-http://iptvtree.net:8080/F14995/a84c0963/298556
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://iili.io/JrgB52R.png" group-title="NASIONAL | INDONESIA",Nick Jr
 http://iptvtree.net:8080/F14995/a84c0963/165107
