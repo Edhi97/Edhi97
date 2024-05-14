@@ -450,8 +450,6 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/i
 
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://iili.io/JrUZy6g.png" group-title="NASIONAL | INDONESIA",JTV
 http://iptvtree.net:8080/F14995/a84c0963/165091
-#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://iili.io/JrUtHFa.png" group-title="NASIONAL | INDONESIA",K+
-http://iptvtree.net:8080/F14995/a84c0963/197969
 
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://iili.io/JrUt39R.png" group-title="NASIONAL | INDONESIA",Lifetime
 http://iptvtree.net:8080/F14995/a84c0963/298543
@@ -1431,3 +1429,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
+#EXTINF:-1 tvg-id="kplus.id" tvg-logo="https://iili.io/JrUtHFa.png" group-title="MOVIES | ENTERTAINMEN",K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
