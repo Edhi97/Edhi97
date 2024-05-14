@@ -209,7 +209,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-name="JAK TV" tvg-logo="https://jak-tv.com/drive/xsrc/event/primary/1657166585_e8bae08d1d4740046108.png" group-title="NASIONAL | INDONESIA",JAK TV
+#EXTINF:-1 tvg-name="JAK TV" tvg-logo="https://iili.io/J6RnG6P.png" group-title="NASIONAL | INDONESIA",JAK TV
 #KODIPROP:inputstreamaddon=inputstream.adaptif
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -446,10 +446,6 @@ EXTINF:-1 group-title="NASIONAL | INDONESIA" tvg-logo="https://images.indihometv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
-
-EXTINF:-1 tvg-name="JAK TV" tvg-logo="https://iili.io/J6RnG6P.png" group-title="NASIONAL | INDONESIA",Jak TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://iili.io/JrUZy6g.png" group-title="NASIONAL | INDONESIA",JTV
 http://iptvtree.net:8080/F14995/a84c0963/165091
