@@ -309,7 +309,7 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ag3DlGE4zs35O8ozWQWV1XTunvA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/ tes-elshinta-tv-eb36eb.jpg" group-title="NASIONAL | INDONESIA",Elshinta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtjoP.png" group-title="NASIONAL | INDONESIA",Pesona Indonesia
 https://h1.intechmedia.net/intech/ch92.m3u8
