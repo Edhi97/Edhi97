@@ -425,10 +425,14 @@ http://iptvtree.net:8080/F14995/a84c0963/165052
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://iili.io/JrUZRCF.png" group-title="NASIONAL | INDONESIA",Discovery World
 http://iptvtree.net:8080/F14995/a84c0963/157597
 
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://iili.io/JrUZcYv.png" group-title="NASIONAL | INDONESIA",Dunia Lain
-http://iptvtree.net:8080/F14995/a84c0963/298524
-#EXTINF:-1 tvg-id="" tvg-name="Eat&Go" tvg-logo="https://iili.io/JrUZ0pp.png" group-title="NASIONAL | INDONESIA",Eat&Go
-http://iptvtree.net:8080/F14995/a84c0963/264765
+#EXTINF:-1 tvg-name="Dunia Lain" tvg-logo="https://iili.io/JrUZcYv.png" group-title="NASIONAL | INDONESIA",Dunia Lain
+#KODIPROP:inputstreamaddon=inputstream.adaptif
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="NASIONAL | INDONESIA",Fox Life
 http://iptvtree.net:8080/F14995/a84c0963/165083
