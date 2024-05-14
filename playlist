@@ -436,8 +436,8 @@ http://iptvtree.net:8080/F14995/a84c0963/165083
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://iili.io/JrUZeyl.png" group-title="NASIONAL | INDONESIA",HGTV
 http://iptvtree.net:8080/F14995/a84c0963/298535
 
-#EXTINF:-1 tvg-id="" tvg-name="Huma Betang TV" tvg-logo="https://iili.io/JrUZrGe.png" group-title="NASIONAL | INDONESIA",Huma Betang TV
-http://iptvtree.net:8080/F14995/a84c0963/299486
+#EXTINF:-1 tvg-logo="https://iili.io/JrUZrGe.png" group-title="NASIONAL | INDONESIA",Huma Betang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://iili.io/JrUZ46u.png" group-title="NASIONAL | INDONESIA",IDX Channel
 http://iptvtree.net:8080/F14995/a84c0963/157590
