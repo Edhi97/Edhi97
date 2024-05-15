@@ -373,9 +373,6 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://iili.io/JrUQrdv.png" group-title="NASIONAL | INDONESIA",ANIMAL PLANET
 http://iptvtree.net:8080/F14995/a84c0963/157532
 
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://iili.io/JrUQ6ep.png" group-title="NASIONAL | INDONESIA",Asian Food Network
-http://iptvtree.net:8080/F14995/a84c0963/298503
-
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://iili.io/JrUQsII.png" group-title="NASIONAL | INDONESIA",Bali TV
 http://iptvtree.net:8080/F14995/a84c0963/197962
 #EXTINF:-1 tvg-id="" tvg-name="Balikpapan TV" tvg-logo="https://iili.io/J6CyMiX.png" group-title="NASIONAL | INDONESIA",Balikpapan TV
@@ -384,9 +381,6 @@ http://iptvtree.net:8080/F14995/a84c0963/166409
 #EXTINF:-1 tvg-logo="https://iili.io/JrUQLXt.png" group-title="NASIONAL | INDONESIA",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://202.150.153.254:443/bandungtvWEBSITE.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://iili.io/JrUQtBn.png" group-title="NASIONAL | INDONESIA",BBC Lifestyle
-http://iptvtree.net:8080/F14995/a84c0963/264747
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUQy74.png" group-title="NASIONAL | INDONESIA",Bloomberg TV
 http://abcnew.site:8880/12mmk180105/81462658/71067
@@ -419,9 +413,6 @@ http://iptvtree.net:8080/F14995/a84c0963/157597
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://iili.io/JrUZeyl.png" group-title="NASIONAL | INDONESIA",HGTV
-http://iptvtree.net:8080/F14995/a84c0963/298535
-
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZrGe.png" group-title="NASIONAL | INDONESIA",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
@@ -436,8 +427,6 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/i
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://iili.io/JrUZy6g.png" group-title="NASIONAL | INDONESIA",JTV
 http://iptvtree.net:8080/F14995/a84c0963/165091
 
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://iili.io/JrUt39R.png" group-title="NASIONAL | INDONESIA",Lifetime
-http://iptvtree.net:8080/F14995/a84c0963/298543
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://iili.io/JrUtKwN.png" group-title="NASIONAL | INDONESIA",Love Nature
 http://iptvtree.net:8080/F14995/a84c0963/264756
 
@@ -1483,3 +1472,17 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="KNOWLEDGE", OUTDOOR CHANNEL 🇺🇸
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+========================== LIFESTYLE ============================
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://iili.io/JrUQtBn.png" group-title="LIFESTYLE",BBC Lifestyle
+http://iptvtree.net:8080/F14995/a84c0963/264747
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://iili.io/JrUZeyl.png" group-title="LIFESTYLE",HGTV
+http://iptvtree.net:8080/F14995/a84c0963/298535
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://iili.io/JrUt39R.png" group-title="LIFESTYLE",Lifetime
+http://iptvtree.net:8080/F14995/a84c0963/298543
+
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://iili.io/JrUQ6ep.png" group-title="LIFESTYLE",Asian Food Network
+http://iptvtree.net:8080/F14995/a84c0963/298503
