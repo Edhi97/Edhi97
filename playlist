@@ -442,12 +442,6 @@ http://iptvtree.net:8080/F14995/a84c0963/162522
 #EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="https://iili.io/JrUtYo7.png" group-title="NASIONAL | INDONESIA",Music TV
 http://iptvtree.net:8080/F14995/a84c0963/165108
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="OK TV" tvg-logo="https://iili.io/JrgBlIt.png" group-title="NASIONAL | INDONESIA",OK TV
-https://liveaneviadev.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://iili.io/JrgB0hX.png" group-title="NASIONAL | INDONESIA",Rodja TV
 http://iptvtree.net:8080/F14995/a84c0963/264758
 
@@ -1486,3 +1480,9 @@ http://iptvtree.net:8080/F14995/a84c0963/298543
 
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://iili.io/JrUQ6ep.png" group-title="LIFESTYLE",Asian Food Network
 http://iptvtree.net:8080/F14995/a84c0963/298503
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="OK TV" tvg-logo="https://iili.io/JrgBlIt.png" group-title="NASIONAL | INDONESIA",OK TV
+https://liveaneviadev.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
