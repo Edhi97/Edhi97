@@ -428,9 +428,6 @@ http://iptvtree.net:8080/F14995/a84c0963/157597
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="NASIONAL | INDONESIA",Fox Life
-http://iptvtree.net:8080/F14995/a84c0963/165083
-
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://iili.io/JrUZeyl.png" group-title="NASIONAL | INDONESIA",HGTV
 http://iptvtree.net:8080/F14995/a84c0963/298535
 
