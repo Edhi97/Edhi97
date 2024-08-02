@@ -560,9 +560,6 @@ https://e.siar.us/live/dtvi.m3u8
 
 ===========================KIDS==============================
 
-#EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee!" tvg-logo="https://iili.io/JrUZvu2.png" group-title="KIDS",Hip Hip Horee!
-http://iptvtree.net:8080/F14995/a84c0963/298536
-
 #EXTINF:-1 tvg-id="cbeebiesasia.uk" tvg-logo="https://iptv.urfan.web.id/logo/cbeebies.png" group-title="KIDS",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -1065,12 +1062,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTINF:-1 tvg-id="" tvg-name="Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="MOVIES | ENTERTAINMEN",Ent
 http://iptvtree.net:8080/F14995/a84c0963/157581
 
-#EXTINF:-1 tvg-logo="https://iili.io/JrUZgn9.png" group-title="MOVIES | ENTERTAINMEN",Hits
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
-https://liveaneviadev.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://iili.io/JrUZgn9.png" group-title="MOVIES | ENTERTAINMEN",Hits
 http://iptvtree.net:8080/F14995/a84c0963/165085
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://iili.io/JrUZSZ7.png" group-title="MOVIES | ENTERTAINMEN",Hits Movies
@@ -1482,7 +1473,7 @@ http://iptvtree.net:8080/F14995/a84c0963/264747
 http://iptvtree.net:8080/F14995/a84c0963/298535
 
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://iili.io/JrUt39R.png" group-title="LIFESTYLE",Lifetime
-http://iptvtree.net:8080/F14995/a84c0963/298543
+http://liveaneviadev.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://iili.io/JrUQ6ep.png" group-title="LIFESTYLE",Asian Food Network
 http://iptvtree.net:8080/F14995/a84c0963/298503
