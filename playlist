@@ -1027,10 +1027,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="MOVIES | ENTERTAINMEN",Ent
 http://iptvtree.net:8080/F14995/a84c0963/157581
 
-#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://iili.io/JrUZgn9.png" group-title="MOVIES | ENTERTAINMEN",Hits
-http://iptvtree.net:8080/F14995/a84c0963/165085
-#EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://iili.io/JrUZSZ7.png" group-title="MOVIES | ENTERTAINMEN",Hits Movies
-http://iptvtree.net:8080/F14995/a84c0963/221947
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:-1 tvg-id="HITS MOVIES HD - [Channel 409].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JrUZSZ7.png" group-title="MOVIES | ENTERTAINMEN",Hits Movies
+https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://iili.io/JrUZOv4.png" group-title="MOVIES | ENTERTAINMEN",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptif
