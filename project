@@ -322,9 +322,6 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/c
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://iili.io/JrUZxpV.png" group-title="NASIONAL | INDONESIA",CNN Indonesia
-http://iptvtree.net:8080/F14995/a84c0963/162137
-
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://iili.io/JrUZRCF.png" group-title="NASIONAL | INDONESIA",Discovery World
 http://iptvtree.net:8080/F14995/a84c0963/157597
 
@@ -339,9 +336,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZrGe.png" group-title="NASIONAL | INDONESIA",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://iili.io/JrUZ46u.png" group-title="NASIONAL | INDONESIA",IDX Channel
-http://iptvtree.net:8080/F14995/a84c0963/157590
 
 EXTINF:-1 group-title="NASIONAL | INDONESIA" tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",Insert
 #KODIPROP:inputstream.adaptive.license_type=clearkey
