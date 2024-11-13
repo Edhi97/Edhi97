@@ -18,7 +18,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-ag=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-"https://cdnjktbpid01.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd?sign=92d4b58707bba89225b473e47a92beb1\u0026time=1731489266
+https://cdnjktbpid01.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd?sign=92d4b58707bba89225b473e47a92beb1\u0026time=1731489266
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://iili.io/JrUPiiJ.png" group-title="NASIONAL | INDONESIA",RCTI
 #KODIPROP:inputstreamaddon=inputstream.adaptif
