@@ -2,6 +2,14 @@
 
 =================================== NASIONAL | INDONESIA ====================================
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions 1.mpd(ott.nav)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+
+
 #EXTINF:-1  tvg-logo="https://iili.io/JrU6ept.png" group-title="NASIONAL | INDONESIA",Indosiar
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
