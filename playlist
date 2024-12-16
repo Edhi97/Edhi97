@@ -90,7 +90,8 @@ https://ythls.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjktbpid01.transvision.co.id/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtDJf.png" group-title="NASIONAL | INDONESIA",TRANS7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
