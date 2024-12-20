@@ -1384,16 +1384,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZKBe.png" group-title="MOVIES | ENTERTAINMEN",Celestial Movies
 http://iptv12k.com:35461/654321/123456/2131
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="63343" tvg-logo="https://static.mncnow.id/images/channel/efec853d/6977.png" group-title="MOVIES | ENTERTAINMEN", Cinemachi
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/efec853d/6977.png" group-title="MOVIES | ENTERTAINMEN", Cinemachi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="63354" tvg-logo="https://static.mncnow.id/images/channel/6cb811ec/f2b0.png" group-title="MOVIES | ENTERTAINMEN", Cinemachi Action
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/6cb811ec/f2b0.png" group-title="MOVIES | ENTERTAINMEN", Cinemachi Action
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
