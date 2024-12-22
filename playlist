@@ -312,7 +312,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtWNV.png" group-title="NASIONAL | INDONESIA",NUSANTARA
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 
 #EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://iili.io/JrUtrDN.png" group-title="NASIONAL | INDONESIA",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
