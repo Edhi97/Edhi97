@@ -220,9 +220,6 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #EXTINF:-1 tvg-id="tvkesehatan.id" tvg-logo="https://iili.io/JrUtJcJ.png" group-title="NASIONAL | INDONESIA",TV Kesehatan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXTINF:-1 tvg-id="Digione.id" tvg-logo="https://iili.io/JrUZuQ1.png" group-title="NASIONAL | INDONESIA",Digione
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtSHv.png" group-title="NASIONAL | INDONESIA",RRI NET
 http://103.160.205.142:9999/stream/channelid/834158169?profile=pass
