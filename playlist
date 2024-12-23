@@ -305,14 +305,8 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JrUD2fe.png" group-title="NASIONAL | INDONESIA",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/J6CyNR4.png" group-title="NASIONAL | INDONESIA",SANGAJI TV
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtWNV.png" group-title="NASIONAL | INDONESIA",NUSANTARA
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
-
-#EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://iili.io/JrUtrDN.png" group-title="NASIONAL | INDONESIA",Sakti TV
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://iili.io/JrUZlvR.png" group-title="NASIONAL | INDONESIA",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
