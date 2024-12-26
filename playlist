@@ -307,9 +307,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://iili.io/JrUZlvR.png" group-title="NASIONAL | INDONESIA",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TegarTVLampung" tvg-logo="https://iili.io/JrUtQls.png" group-title="NASIONAL | INDONESIA",Tegar TV Lampung
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://iili.io/J6CyXls.png" group-title="NASIONAL | INDONESIA", JOWO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
