@@ -344,8 +344,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://iili.io/JrUQsII.png" group-title="NASIONAL | INDONESIA",Bali TV
 http://iptvtree.net:8080/F14995/a84c0963/197962
-#EXTINF:-1 tvg-id="" tvg-name="Balikpapan TV" tvg-logo="https://iili.io/J6CyMiX.png" group-title="NASIONAL | INDONESIA",Balikpapan TV
-http://iptvtree.net:8080/F14995/a84c0963/166409
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUQLXt.png" group-title="NASIONAL | INDONESIA",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
