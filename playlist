@@ -336,9 +336,6 @@ https://5bf7b725107e5.streamlock.net:443/brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtURR.png" group-title="NASIONAL | INDONESIA",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JrUtNiF.pngng" group-title="NASIONAL | INDONESIA",Radar TV
-http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://iili.io/JrUQrdv.png" group-title="NASIONAL | INDONESIA",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
