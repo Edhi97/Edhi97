@@ -368,23 +368,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://iili.io/JrUZxpV.png" group-title="NASIONAL | INDONESIA",CNN Indonesia
 http://iptvtree.net:8080/F14995/a84c0963/162137
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://iili.io/JrUZRCF.png" group-title="NASIONAL | INDONESIA",Discovery World
-http://iptvtree.net:8080/F14995/a84c0963/157597
-
 #EXTINF:-1 tvg-name="Dunia Lain" tvg-logo="https://iili.io/JrUZcYv.png" group-title="NASIONAL | INDONESIA",Dunia Lain
-#KODIPROP:inputstreamaddon=inputstream.adaptif
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+https://mantul.biz.id:443/aruba/aruba/246.ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZrGe.png" group-title="NASIONAL | INDONESIA",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://iili.io/JrUZ46u.png" group-title="NASIONAL | INDONESIA",IDX Channel
-http://iptvtree.net:8080/F14995/a84c0963/157590
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 EXTINF:-1 group-title="NASIONAL | INDONESIA" tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",Insert
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -395,7 +389,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/i
 http://iptvtree.net:8080/F14995/a84c0963/165091
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://iili.io/JrUtKwN.png" group-title="NASIONAL | INDONESIA",Love Nature
-http://iptvtree.net:8080/F14995/a84c0963/264756
+http://iptv12k.com:35461/654321/123456/2069
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
