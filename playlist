@@ -1,8 +1,7 @@
 #EXTM3U
 =================================== NASIONAL | INDONESIA ====================================
 
-#EXTINF:-1  tvg-logo="https://iili.io/JrU6ept.png" group-title="NASIONAL | INDONESIA",Indosiar
-http://xtvplayer.top:8080/live/sanushop/12345678/350972.ts
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrU6ept.png" group-title="NASIONAL | INDONESIA",Indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
