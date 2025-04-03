@@ -75,8 +75,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://iili.io/JrUtpb2.png" group-title="NASIONAL | INDONESIA",TVONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZXGn.png" group-title="NASIONAL | INDONESIA",GTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
