@@ -101,7 +101,9 @@ https://lilirplay.my.id/indihome/index.m3u8?id=antv
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtzcG.png" group-title="NASIONAL | INDONESIA",Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL | INDONESIA" tvg-logo="https://iili.io/JrUtVAQ.png",NET
