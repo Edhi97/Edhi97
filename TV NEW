@@ -449,3 +449,19 @@ https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 group-title="PREMIUM CHANNEL" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1\/340x160/1687502022_tvchannels_v1.jpg",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM CHANNEL" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg",KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM CHANNEL" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg",ROCK ENTERTAIMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM CHANNEL" tvg-logo="https://picture.dens.tv//wp//img//tvchannels_v1//340x160//1687502069_tvchannels_v1.jpg",ROCK ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM CHANNEL" tvg-logo="https://picture.dens.tv//wp//img//tvchannels_v1//340x160//1687502076_tvchannels_v1.jpg",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h\/h07/index.m3u8
