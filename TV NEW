@@ -468,7 +468,7 @@ https://op-group1-swiftservehd-1.dens.tv/h\/h07/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM CHANNEL" tvg-logo="https://picture.dens.tv//wp//img//tvchannels_v1//340x160//1714465946_tvchannels_v1.jpg",KBS KOREA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv//h//h241//index.m3u8/h07/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv//h//h241//index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM CHANNEL" tvg-logo="https://picture.dens.tv//wp//img//tvchannels_v1//340x160//1714465949_tvchannels_v1.jpg",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
