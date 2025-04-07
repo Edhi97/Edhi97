@@ -541,5 +541,5 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 #EXTINF:-1 group-title="PREMIUM CHANNEL" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",BEIN SPORT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#KODIPROP:inputstream.adaptive.license_key=v3f5vbbamed4beae56842uebv
 https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/hls/6299/master.m3u8
