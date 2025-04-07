@@ -542,4 +542,4 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=v3f5vbbamed4beae56842uebv
-https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/hls/6299/master.m3u8
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/hls/6299/master.mpd
