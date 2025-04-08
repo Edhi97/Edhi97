@@ -186,13 +186,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUQsII.png" group-title="NASIONAL | INDONESIA", Bali Tv
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZtwB.png" group-title="NASIONAL | INDONESIA",Jawa Pos televisi
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+https://streaming.indihometv.com/atm/mpd-vo/balitv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/J6CyGVt.png" group-title="NASIONAL | INDONESIA",Elshinta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
