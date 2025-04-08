@@ -76,10 +76,6 @@ https://cdnjkt1314.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iili.io/JrUtDJf.png" group-title="NASIONAL | INDONESIA",TRANS7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo=" https://iili.io/JrUQUrJ.png" group-title="NASIONAL | INDONESIA",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -87,15 +83,6 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 EXTINF: -1 tvg-logo="https://i.ibb.co/T0MQdLm/ANTV.png" group-title="NASIONAL | INDONESIA", ANTV
 #EXTVLCOPT:http-agen-pengguna=aura1234
 https://lilirplay.my.id/indihome/index.m3u8?id=antv
-
-#EXTINF:-1 tvg-name="ANTV.id" tvg-logo="https://iili.io/JrUQUrJ.png" group-title="NASIONAL | INDONESIA",ANTV
-#KODIPROP:inputstreamaddon=inputstream.adaptif
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-ag=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtzcG.png" group-title="NASIONAL | INDONESIA",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
