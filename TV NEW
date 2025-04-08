@@ -224,7 +224,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de
 https://e.siar.us/live/dmtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZMQt.png" group-title="NASIONAL | INDONESIA",Garuda TV
-https://stream.garuda.tv/live/garudatv/chunklist_w1741702512.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZpMF.png" group-title="NASIONAL | INDONESIA",JPM TV
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
