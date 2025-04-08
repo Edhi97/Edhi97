@@ -371,7 +371,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kawanuatv.id" tvg-logo="https://iili.io/J6nzAT7.png" group-title="NASIONAL | INDONESIA",Kawanua TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+https://bauni.my.id/hls/eks53uhf/index.m3u8
 
 #EXTINF:-1 tvg-id="madutv.id" tvg-logo="https://iili.io/J6CyhUG.png" group-title="NASIONAL | INDONESIA",Madu TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
