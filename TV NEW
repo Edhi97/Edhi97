@@ -227,33 +227,23 @@ https://e.siar.us/live/dmtv.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JrUZpMF.png" group-title="NASIONAL | INDONESIA",JPM TV
-http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JrUtPVt.png" group-title="NASIONAL | INDONESIA",Simpang5 TV
-http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JrUtLfn.png" group-title="NASIONAL | INDONESIA",SMTV
-https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://iili.io/J6nzx24.png" group-title="NASIONAL | INDONESIA",BRTV
 https://5bf7b725107e5.streamlock.net:443/brtv/brtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtURR.png" group-title="NASIONAL | INDONESIA",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://iili.io/JrUQrdv.png" group-title="NASIONAL | INDONESIA",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
-
 #EXTINF:-1 tvg-logo="https://iili.io/JrUQLXt.png" group-title="NASIONAL | INDONESIA",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://202.150.153.254:443/bandungtvWEBSITE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://iili.io/JrUZdIS.png" group-title="NASIONAL | INDONESIA",Boomerang
-http://iptv12k.com:35461/654321/123456/2097
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL | INDONESIA" tvg-logo="https://iili.io/JrUZC2j.png",Citra Dangdut
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -270,7 +260,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 http://iptvtree.net:8080/F14995/a84c0963/162137
 
 #EXTINF:-1 tvg-name="Dunia Lain" tvg-logo="https://iili.io/JrUZcYv.png" group-title="NASIONAL | INDONESIA",Dunia Lain
-https://mantul.biz.id:443/aruba/aruba/246.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZrGe.png" group-title="NASIONAL | INDONESIA",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
@@ -541,6 +536,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://iili.io/JrUQrdv.png" group-title="PREMIUM CHANNEL",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 
 ======================= SPORT ===================
