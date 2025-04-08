@@ -178,7 +178,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUQsII.png" group-title="NASIONAL | INDONESIA", Bali Tv
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://streaming.indihometv.com/atm/mpd-vo/balitv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUZtwB.png" group-title="NASIONAL | INDONESIA",Jawa Pos televisi
