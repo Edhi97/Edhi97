@@ -1,8 +1,6 @@
 #EXTM3U
 =================================== NASIONAL | INDONESIA ====================================
 
-
-
 #EXTINF:-1 tvg-logo="https://iili.io/JrU6ept.png" group-title="NASIONAL | INDONESIA",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -386,10 +384,6 @@ http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/J6nzKhX.png" group-title="NASIONAL | INDONESIA",Batik TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.armelin.one/channel/UCfVhsa1PMBkqYQOqIojVjPA.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/J6nzCEG.png" group-title="NASIONAL | INDONESIA",Batu TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://117.103.69.219:8080/live/streaming/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/J6nzzYl.png" group-title="NASIONAL | INDONESIA",Bungo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
